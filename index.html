@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>BIOLOGY</title>
+<link rel="stylesheet" href="style.css">
+<script src="script.js" defer></script>
+</head>
+
+<body>
+
+<header class="header">
+    <div class="logo">BIOLOGY</div>
+
+    <nav class="topics">
+        <button class="topic-btn" data-topic="cell">Cell</button>
+        <button class="topic-btn" data-topic="animalkingdom">Animal Kingdom</button>
+        <button class="topic-btn" data-topic="circulatorysystem">Circulatory System</button>
+        <button class="topic-btn" data-topic="april">April</button>
+        <button class="topic-btn" data-topic="may">May</button>
+        <button class="topic-btn" data-topic="june">June</button>
+        <button class="topic-btn" data-topic="july">July</button>
+        <button class="topic-btn" data-topic="august">August</button>
+        <button class="topic-btn" data-topic="september">September</button>
+        <button class="topic-btn" data-topic="october">October</button>
+        <button class="topic-btn" data-topic="november">November</button>
+        <button class="topic-btn" data-topic="december">December</button>
+    </nav>
+
+    <div id="status">Ready</div>
+    <div id="timerText">⏳ 20</div>
+</header>
+
+<div class="progress">
+    <div class="progress-bar" id="bar"></div>
+</div>
+
+<div class="timer-bar" id="timerBar"></div>
+
+<!-- SETS -->
+<div class="set-bar" style="border:3px solid red;background:#fcf80f;">
+    <button class="set-btn" data-set="set1">Set 1</button>
+    <button class="set-btn" data-set="set2">Set 2</button>
+    <button class="set-btn" data-set="set3">Set 3</button>
+    <button class="set-btn" data-set="set4">Set 4</button>
+    <button class="set-btn" data-set="set5">Set 5</button>
+    <button class="set-btn" data-set="set6">Set 6</button>
+    <button class="set-btn" data-set="set7">Set 7</button>
+    <button class="set-btn" data-set="set8">Set 8</button>
+    <button class="set-btn" data-set="set9">Set 9</button>
+    <button class="set-btn" data-set="set10">Set 10</button>
+</div>
+
+<div class="app">
+
+<main class="main">
+
+<div id="quizBox">
+
+    <div id="qText">Select a quiz to start</div>
+    <div id="options"></div>
+
+    <div class="btns">
+        <button onclick="prev()">Prev</button>
+        <button onclick="mark()">Mark</button>
+        <button onclick="next()">Next</button>
+        <button onclick="submitQuiz()">Submit</button>
+    </div>
+
+</div>
+
+<div id="resultBox" style="display:none;">
+    <h2>Result</h2>
+    <div id="scoreText"></div>
+    <div id="review"></div>
+</div>
+
+</main>
+
+<aside class="sidebar">
+    <h3>Palette</h3>
+    <div id="palette">No questions loaded</div>
+</aside>
+
+</div>
+
+</body>
+</html>
