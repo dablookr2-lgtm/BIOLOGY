@@ -77,8 +77,8 @@ body{
 }
 
 .topic-btn:hover{
-    background:#1e3c72;
-    color:white;
+    background:#ecee5d;
+    color:rgb(82, 5, 248);
 }
 .active-btn{
     background:hsl(60, 14%, 99%);
@@ -374,13 +374,13 @@ body{
 
 /* PROGRESS BAR */
 .progress{
-    top:129px !important;
+    top:134px !important;
 }
 
 /* SET SCROLL */
 .set-bar{
     position:fixed !important;
-    top:135px !important;
+    top:140px !important;
     left:0;
     right:0;
 
