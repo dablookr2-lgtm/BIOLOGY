@@ -1441,23 +1441,396 @@ set4: [
 ]
 },
 
-june: {
+diseases: {
 set1: [
-{q:"संविधान लागू?",options:["1950","1947","1952","1942"],answer:0,exp:"1950"},
-{q:"लोकसभा?",options:["निचला","उच्च","न्यायालय","राज्य"],answer:0,exp:"निचला"}
+{q:"Read the given statements and select the most appropriate option. Statements: A: Coal and petroleum were formed from the degradation of bio-mass. B: They are exhaustible resources.",options:["Both statements A and B are correct","Only statement A is correct","Only statement B is correct","Neither statement A nor B is correct"],answer:0,exp:"Coal and petroleum are exhaustible fossil fuels formed from ancient biomass."},
+
+{q:"What is Karl Landsteiner known for?",options:["Studied the nervous system","Isolated the DNA","Identified the Zika Virus","Discovery of blood group classification"],answer:3,exp:"Karl Landsteiner discovered the ABO blood group system."},
+
+{q:"Excess fluorides in drinking water is likely to cause-",options:["Blue babies","Fluorosis","Intestinal irritation","Taste and odour"],answer:1,exp:"Excess fluoride intake causes fluorosis."},
+
+{q:"Which of the following statements regarding saturated and unsaturated carbon compounds is correct? Statement I: Saturated carbon compounds are hydrocarbons where carbon atoms are connected by single covalent bonds. Statement II: Unsaturated carbon compounds are hydrocarbons where carbon atoms are connected by single covalent bonds.",options:["Only statement I is correct.","Neither statement I nor II is correct.","Both statements I and II are correct.","Only statement II is correct."],answer:0,exp:"Saturated compounds have only single bonds while unsaturated compounds contain multiple bonds."},
+
+{q:"An ammeter has ____________ resistance, so that it passes maximum current through it.",options:["Very high","Infinite","Very less","High"],answer:2,exp:"An ammeter has very low resistance to allow maximum current flow."},
+
+{q:"Select the correct equation(s) that relate(s) the final and initial velocity of a freely falling object with respect to time. (A) s = ut + 1/2at² (B) v = u + 1/2at (C) (v - u) = at",options:["(B) and (C)","Only (C)","(A) and (B)","Only (A)"],answer:1,exp:"Only v-u=at correctly relates velocity and time."},
+
+{q:"Select the correct option regarding the following two statements labelled Assertion (A) and Reason (R). Assertion (A): Iron gets coated with a reddish-brown substance when exposed to moist air. Reason (R): Rust forms due to the reaction of iron with moisture and oxygen.",options:["Both A and R are true, and R is the correct explanation of A.","Both A and R are true, and R is not the correct explanation of A.","A is false, but R is true.","A is true, but R is false."],answer:0,exp:"Rust forms when iron reacts with oxygen and moisture."},
+
+{q:"How do plant cells respond immediately to a stimulus without specialized proteins like animal muscle cells?",options:["By producing immune responses","By breaking down food to release energy instantly","By changing water content to cause swelling or shrinking","By secreting enzymes only"],answer:2,exp:"Plant cells respond through turgor changes caused by water movement."},
+
+{q:"Consider the following statements and select the correct option. Statement A: Baking soda is a mild non-corrosive basic salt. Statement B: It can neutralise acids and relieve stomach acidity.",options:["Statement A is incorrect but B is correct.","Both statements A and B are incorrect.","Both statements A and B are correct.","Statement A is correct but B is incorrect."],answer:2,exp:"Baking soda is a mild base used as an antacid."},
+
+{q:"Which one of the following organisms shows multiple fission?",options:["Hydra","Leishmania","Yeast","Plasmodium"],answer:3,exp:"Plasmodium reproduces by multiple fission."},
+
+{q:"Which of the following statements about geometric shapes is/are true? 1. Geometric shapes are enclosed figures formed by joining two or more points, lines, or curves. 2. Geometric shapes are always open-ended and made up of only straight lines.",options:["Only statement 1 is true","Only statement 2 is true","Both statements 1 and 2 are true","Neither statement 1 nor 2 is true"],answer:0,exp:"Geometric shapes are enclosed figures and need not be open-ended."},
+
+{q:"Rauwolfia serpentina is a:",options:["poisonous snake","contributing organism of AIDS","helminth parasite","medicinal plant"],answer:3,exp:"Rauwolfia serpentina is a medicinal plant used for hypertension."},
+
+{q:"Which of the following statement(s) is /are true regarding the work done by a constant force acting on a body? (i) The work done by the force can never be zero. (ii) If the direction of the force and displacement of the body is same, the work done will be positive. (iii) The S.I. unit of work done is joule.",options:["Only (ii)","Only (i)","Both (ii) and (iii)","Both (i) and (iii)"],answer:2,exp:"Work is positive in the same direction and measured in joules."},
+
+{q:"The disease related with apple is known as:",options:["red rust disease","tikka disease","green ear disease","fire blight"],answer:3,exp:"Fire blight is a common bacterial disease of apple plants."},
+
+{q:"Methane reacts with chlorine in the presence of sunlight to form chloromethane and hydrogen chloride. Which of the following statements is CORRECT? Statement I: Only one chlorine atom can substitute at a time. Statement II: The reaction is an example of a substitution reaction. Statement III: Multiple substitution can occur if the reaction continues.",options:["Only I and III are true","Only II and III are true","I, II and III are true","Only I and II are true"],answer:2,exp:"Methane chlorination is a substitution reaction with possible multiple substitutions."},
+
+{q:"Which organ of the human body is affected by glaucoma?",options:["Liver","Ears","Kidneys","Eyes"],answer:3,exp:"Glaucoma is a disease affecting the eyes."},
+
+{q:"Helium atom has _____ electron(s) in its outermost shell.",options:["One","Two","Four","Three"],answer:1,exp:"Helium has two electrons in its only shell, which is complete."},
+
+{q:"Which of the following human diseases is caused by bacteria?",options:["Hepatitis A","Typhoid","Measles","Polio"],answer:1,exp:"Typhoid is caused by the bacterium Salmonella typhi."},
+
+{q:"Who propounded the homeopathic principle of 'like cures like'?",options:["Hippocrates","Samuel Hahnemann","Samuel Cockburn","George Vithoulkas"],answer:1,exp:"Samuel Hahnemann founded homeopathy and proposed 'like cures like'."},
+
+{q:"________ is a sexually transmitted killer disease.",options:["AIDS","Typhoid","Jaundice","Malaria"],answer:0,exp:"AIDS is a serious sexually transmitted disease caused by HIV."},
+
+{q:"Identify the INCORRECT sentence(s). a. Some organisms use simple food material obtained from inorganic sources in the form of carbon dioxide and water. b. Other organisms utilise complex substances which are broken down into simpler ones before they can be used for the upkeep and growth of the body. c. Heterotrophic organisms include plants.",options:["Only c","Only a","Only b and c","Only a and b"],answer:0,exp:"Plants are generally autotrophs, not heterotrophs."},
+
+{q:"Which of these transports oxygen to every cell of the body?",options:["R.B.C.","R.B.C. and hormone","R.B.C and W.B.C.","W.B.C."],answer:0,exp:"Red blood cells carry oxygen through haemoglobin."},
+
+{q:"Medicines that stop the growth of disease causing microorganisms are called:",options:["antibodies","antibiotics","anaesthetics","analgesic"],answer:1,exp:"Antibiotics inhibit or kill disease-causing microorganisms."},
+
+{q:"Who discovered the AB-O blood group system?",options:["Karl Koller","Maurice Hilleman","Karl Landsteiner","Edward Jenner"],answer:2,exp:"Karl Landsteiner discovered the ABO blood group system."},
+
+{q:"Which of the following is NOT responsible for the transmission of HIV-infection?",options:["Hugging of infected person","Transfusion of contaminated blood","Sexual contact with infected person","Sharing infected needles"],answer:0,exp:"HIV is not transmitted through casual contact like hugging."},
+
+{q:"Which combination of symptoms is the most common characteristic of influenza in humans?",options:["Fever, cough, and body aches","Rash, itching, and swelling","Chest pain, palpitations, and sweating","Vomiting, diarrhea, and dehydration"],answer:0,exp:"Influenza commonly causes fever, cough and body aches."},
+
+{q:"Intestinal hookworm disease in humans is caused by which species of Aschelminthes?",options:["Ascaris lumbricoides","Ancylostoma duodenale","Trichuris trichiura","Strongyloides stercoralis"],answer:1,exp:"Ancylostoma duodenale is a common human hookworm."},
+
+{q:"Where is the longest bone in the human body?",options:["The thigh","The upper arm","The leg","The arm"],answer:0,exp:"The femur in the thigh is the longest bone in the human body."},
+
+{q:"When a blood vessel is injured, ______ help(s) to plug the leak by clotting the blood.",options:["lymphocytes","red blood cells","platelets","plasma"],answer:2,exp:"Platelets help in blood clotting and wound repair."},
+
+{q:"In a human body, salts are transported by:",options:["Blood","Plasma","Haemoglobin","Oxygen"],answer:0,exp:"Blood transports salts and other dissolved substances throughout the body."},
+
+{q:"Which of the following diseases is mostly caused by the deficiency of Vitamin 'C'?",options:["Kidney malfunction","Rheumatism","Respiratory disease","Scurvy"],answer:3,exp:"Scurvy results from deficiency of Vitamin C."},
+
+{q:"'Milk of Magnesia' is an example of _________.",options:["Antibiotics","Antiparticle","Antacid","Anti Parasite"],answer:2,exp:"Milk of Magnesia is used as an antacid to neutralize stomach acid."},
 ],
 set2: [
-{q:"COP-29?",options:["जलवायु","युद्ध","व्यापार","कृषि"],answer:0,exp:"जलवायु"},
-{q:"जलवायु सम्मेलन?",options:["COP","G20","BRICS","NATO"],answer:0,exp:"COP"}
+{q:"Which of the following diseases is NOT caused by water pollution?",options:["Plague","Cholera","Typhoid","Diarrhoea"],answer:0,exp:"Plague is primarily spread by infected fleas, not water pollution."},
+
+{q:"Read the given assertion and reason and select the correct option based on the analysis of these statements. Assertion: Stethoscope uses the concept of multiple reflection of sound waves for its working. Reason: Sound waves require a material medium for their propagation.",options:["Both assertion and reason are true and the reason is the correct explanation of the assertion.","Assertion is false and reason is true.","Both assertion and reason are true and the reason is not the correct explanation of the assertion.","Assertion is true but reason is false."],answer:2,exp:"Both statements are true, but the reason does not explain the assertion."},
+
+{q:"Which of the following cells have dendrites and axons?",options:["Fibres","Nerve cells","White blood cells","Red blood cells"],answer:1,exp:"Neurons possess dendrites and axons for signal transmission."},
+
+{q:"Which of the following is NOT a seed-borne disease?",options:["Red rot of sugarcane","Sheath rot on rice","Potato mosaic","Moulting of wheat"],answer:2,exp:"Potato mosaic is generally spread through infected tubers, not seeds."},
+
+{q:"In May 2024, the World Health Organization (WHO) prequalified the QDENGA vaccine developed by Takeda Pharmaceuticals. This vaccine is designed to protect against which disease?",options:["Dengue","Malaria","Chikungunya","Zika"],answer:0,exp:"QDENGA is a vaccine developed for protection against dengue."},
+
+{q:"The scientific name of modern man is-",options:["Homo habilis","Homo sapiens","Homo neanderthalensis","Homo erectus"],answer:1,exp:"Modern humans belong to the species Homo sapiens."},
+
+{q:"B.C.G. vaccine is normally used to prevent-",options:["Leukaemia","Cancer","Rabies","Tuberculosis"],answer:3,exp:"BCG vaccine provides protection against tuberculosis."},
+
+{q:"A spherical mirror diverges a beam of light, which is incident on it. Which of the following statement(s) about the mirror is/are true? i) The mirror used is convex. ii) The mirror has positive focal length. iii) The image formed by this mirror can be seen on a screen.",options:["Both (ii) and (iii)","Only (iii)","Both (i) and (ii)","Only (i)"],answer:2,exp:"A convex mirror diverges light and has a positive focal length."},
+
+{q:"Which of the following statements is/are correct regarding sexual reproduction in plants? Statement A: After fertilisation, the zygote divides several times to form an embryo within the ovule. Statement B: The ovule develops a tough coat and is gradually converted into a seed.",options:["Only statement B","Only statement A","Both statements A and B","Neither statement A nor B"],answer:2,exp:"Both embryo formation and seed development occur after fertilisation."},
+
+{q:"Which of the following diseases is caused by protozoa?",options:["Polio","Typhoid","Chicken Pox","Malaria"],answer:3,exp:"Malaria is caused by the protozoan Plasmodium."},
+
+{q:"Yeast is commonly used in kitchen for baking and brewing. The scientific name for baker's yeast is _______.",options:["Lactobacillus acidophilus","Saccharomyces cerevisiae","Escherichia coli","Bacillus subtilis"],answer:1,exp:"Saccharomyces cerevisiae is commonly known as baker's yeast."},
+
+{q:"Which of the following is a common category of agents that can cause diseases in poultry fowl?",options:["Purely genetic factors","Vitamins and minerals only","Sunlight exposure","Viruses, bacteria, and fungi"],answer:3,exp:"Many poultry diseases are caused by viruses, bacteria, and fungi."},
+
+{q:"Antihistamines are found in some first-aid boxes. When should these drugs be taken?",options:["To aid in clotting of blood","To ease the symptoms of hay fever and other allergies","To ease the indigestion and heartburn","To bring relief from asthma"],answer:1,exp:"Antihistamines are commonly used to relieve allergy symptoms."},
+
+{q:"Which of the following is/are correct regarding the components of an ecosystem? A. Living organisms - Abiotic Component B. Soil - Biotic component C. Minerals - Abiotic component",options:["A, B and C","Only C","Only B","Both A and C"],answer:1,exp:"Minerals are abiotic components, while the other statements are incorrect."},
+
+{q:"What is 'Halitosis' commonly known as?",options:["Headache","Blood Pressure","Bad breath","Flu"],answer:2,exp:"Halitosis is the medical term for bad breath."},
+
+
+{q:"Which disease is caused by deficiency of haemoglobin in blood?",options:["Goitre","Anaemia","Rickets","Scurvy"],answer:1,exp:"Low haemoglobin levels result in anaemia."},
+
+{q:"According to WHO, approximately how many babies die every year from diseases caused due to unsafe water and unhygienic conditions?",options:["10 lakh","12 lakh","15 lakh","20 lakh"],answer:2,exp:"WHO estimates about 15 lakh child deaths annually due to unsafe water and poor sanitation."},
+
+{q:"The disease caused by HIV is:",options:["Typhoid","AIDS","Tuberculosis","Malaria"],answer:1,exp:"HIV causes Acquired Immunodeficiency Syndrome (AIDS)."},
+
+{q:"A doctor advises a patient to use iodised salt regularly. This is most likely to prevent:",options:["Anaemia","Goitre","Scurvy","Rickets"],answer:1,exp:"Iodine deficiency causes goitre, which iodised salt helps prevent."},
+
+{q:"Which of the following blood vessels carries oxygenated blood from the lungs to the heart?",options:["Pulmonary artery","Aorta","Pulmonary vein","Vena cava"],answer:2,exp:"Pulmonary veins carry oxygenated blood from the lungs to the heart."},
+
+{q:"Which blood cells are responsible for protecting the body from infections?",options:["Red blood cells","Platelets","White blood cells","Plasma"],answer:2,exp:"White blood cells defend the body against disease-causing organisms."},
+
+{q:"Which vitamin deficiency causes night blindness?",options:["Vitamin A","Vitamin B","Vitamin C","Vitamin D"],answer:0,exp:"Night blindness occurs due to deficiency of Vitamin A."},
+
+{q:"Which disease is transmitted by the bite of an infected female Anopheles mosquito?",options:["Dengue","Malaria","Typhoid","Cholera"],answer:1,exp:"Malaria is spread by infected female Anopheles mosquitoes."},
+
+{q:"The oxygen-carrying pigment present in human blood is:",options:["Melanin","Haemoglobin","Chlorophyll","Myoglobin"],answer:1,exp:"Haemoglobin transports oxygen throughout the body."},
+
+{q:"Which disease is caused by deficiency of Vitamin D?",options:["Scurvy","Beriberi","Rickets","Pellagra"],answer:2,exp:"Vitamin D deficiency leads to rickets."},
+
+{q:"The universal donor blood group is:",options:["A","B","AB","O"],answer:3,exp:"Blood group O is known as the universal donor."},
+
+{q:"Which disease is caused by bacteria?",options:["Polio","AIDS","Tuberculosis","Malaria"],answer:2,exp:"Tuberculosis is caused by Mycobacterium tuberculosis."},
+
+{q:"The deficiency of iron in the body causes:",options:["Scurvy","Goitre","Anaemia","Rickets"],answer:2,exp:"Iron deficiency lowers haemoglobin levels and causes anaemia."},
+
+{q:"Which component of blood helps in clotting?",options:["RBC","WBC","Platelets","Plasma"],answer:2,exp:"Platelets are responsible for blood clotting."},
+
+{q:"Which disease is caused by a protozoan?",options:["Typhoid","Malaria","Tuberculosis","Polio"],answer:1,exp:"Malaria is caused by the protozoan Plasmodium."},
+
+{q:"Which vaccine is given to prevent tuberculosis?",options:["DPT","OPV","BCG","MMR"],answer:2,exp:"BCG vaccine is administered to prevent tuberculosis."},
+
+
 ],
 set3: [
-{q:"भारत नीति?",options:["विकास","युद्ध","कर","सेना"],answer:0,exp:"विकास"},
-{q:"ONOS?",options:["ज्ञान","टैक्स","सेना","राजनीति"],answer:0,exp:"ज्ञान"}
+{q:"Vaccinations are given to farm animals primarily to protect them from which of the following?",options:["External parasites only","Major viral and bacterial diseases","Heat stress","Nutritional deficiencies"],answer:1,exp:"Vaccination protects animals against major infectious diseases."},
+
+{q:"Which of the following statements is/are correct regarding functional dimension (F) in engineering drawings? Statement 1: Functional dimensions are essential for the function of the component or space. Statement 2: Functional dimensions are usually shown without any boundaries. Statement 3: Functional dimensions are shown for reference purposes only.",options:["Only statement 1 is true","Only statement 3 is true","Only statements 2 and 3 are true","Only statements 1 and 2 are true"],answer:0,exp:"Functional dimensions are essential for the intended function of a component."},
+
+{q:"The female Anopheles mosquito is a transmitter of:",options:["malaria","dengue","cholera","typhoid"],answer:0,exp:"Female Anopheles mosquitoes spread malaria."},
+
+{q:"A mother who is malnourished during pregnancy is likely to:",options:["have a faster delivery","give birth to an underweight baby","have a stronger immune system","produce more milk"],answer:1,exp:"Maternal malnutrition often leads to low birth weight babies."},
+
+{q:"Which of the following cells in the human body is of the bulging shape?",options:["Red blood cells","White blood cells","Nerve cells","Guard cells"],answer:0,exp:"Red blood cells have a characteristic biconcave bulging shape."},
+
+{q:"The disease caused by deficiency of protein in children is called-",options:["Pellagra","Beri-Beri","Kwashiorkor","Rickets"],answer:2,exp:"Kwashiorkor is caused by severe protein deficiency."},
+
+{q:"Which disease is treated by insulin?",options:["Diabetes","Tuberculosis","Cancer","Anaemia"],answer:0,exp:"Insulin is used in the treatment of diabetes."},
+
+{q:"Which group did iodine belong to in Mendeleev’s table?",options:["Group VIII","Group V","Group VI","Group VII"],answer:3,exp:"Iodine was placed in Group VII of Mendeleev’s table."},
+
+{q:"Consider the following statements and select the correct option. Statement A: Alcohols react with sodium to evolve hydrogen. Statement B: No gas is evolved when sodium reacts with ethanol.",options:["Both statements A and B are correct.","Statement A is correct but B is incorrect.","Statement A is incorrect but B is correct.","Both statements A and B are incorrect."],answer:1,exp:"Ethanol reacts with sodium and releases hydrogen gas."},
+
+{q:"Which of the following sexually transmitted diseases is caused by a bacterium?",options:["Gonorrhoea","HIV-AIDS","Warts","Typhoid"],answer:0,exp:"Gonorrhoea is a bacterial sexually transmitted disease."},
+
+{q:"Which of the following changes can be regarded as part of sexual maturation in human males?",options:["Deposition of fat in hips","Increase in height","Cracking of voice","Increase in weight"],answer:2,exp:"Voice cracking is a common sign of male puberty."},
+
+{q:"Select the option that shows the correct age range of puberty in human male and female.",options:["8-11 years","11-17 years","6-10 years","9-12 years"],answer:1,exp:"Puberty generally occurs between 11 and 17 years."},
+
+{q:"______ is known as a disease mostly caused by occupational health hazards.",options:["Syphilis","Cirrhosis","Silicosis","Parkinson’s"],answer:2,exp:"Silicosis is an occupational lung disease."},
+
+{q:"Valence shell is the ________ shell of every element.",options:["First","Middle","Penultimate","Outermost"],answer:3,exp:"The valence shell is the outermost electron shell."},
+
+{q:"For treatment of which of the following is the bark of the Arjuna tree primarily used?",options:["Skin disease","Heart Disease","Inflammation","Tuberculosis"],answer:1,exp:"Arjuna bark is traditionally used for heart ailments."},
+
+{q:"Which of the following is NOT a contagious disease?",options:["Measles","Influenza","Typhoid","Arthritis"],answer:3,exp:"Arthritis is generally not a contagious disease."},
+
+{q:"When touching a hot object with the hand, human beings are able to remove their hand immediately because:",options:["human beings are sensitive to the stimulus of touch","human beings are the supreme creatures of the living world","every living organism can do so","human beings are more intelligent than others"],answer:0,exp:"The nervous system quickly responds to touch stimuli."},
+
+{q:"Amoebiasis causes __________.",options:["Dysentry","Headache and cold","Fever","Severe cold"],answer:0,exp:"Amoebiasis commonly causes dysentery."},
+
+{q:"Who proposed the Scientific Management School of thought as opposed to the Administrative Management School of thought?",options:["Henry Fayol","Frederick Taylor","Peter Drucker","Max Weber"],answer:1,exp:"Frederick Taylor is known as the father of Scientific Management."},
+
+{q:"Which of the following statements is true about HIV transmission?",options:["HIV can be transmitted through mosquito bites.","HIV can be transmitted through casual contact.","HIV can be transmitted through aerosols.","HIV can be transmitted through sexual acts."],answer:3,exp:"HIV can spread through unprotected sexual contact."},
+
+{q:"Which of the following is NOT a consequence of nutrient deficiency in plants?",options:["Poor growth","Low yield","Increased resistance to diseases","Affected reproduction"],answer:2,exp:"Nutrient deficiency weakens plants rather than increasing disease resistance."},
+
+{q:"If the kidney is not functioning properly, then the extra amount of urea gets accumulated, this condition is called-",options:["Inflammation","Kidney Deterioration","Kidney stones","Eremia"],answer:3,exp:"Accumulation of urea in blood is called uremia (spelled Eremia in the question)."},
+
+{q:"Refer to the two statements given below and choose the correct option. Statement A: Acids react with all metals to form hydrogen gas. Statement B: Gold and platinum also react with acids to release hydrogen.",options:["Statement A is correct but B is incorrect.","Both statements A and B are incorrect.","Both statements A and B are correct.","Statement A is incorrect but B is correct."],answer:1,exp:"Not all metals react with acids; gold and platinum are unreactive."},
+
+{q:"What is the medico-legal name given to the dissection and study of a dead human body?",options:["Causa medico","Analysis","Autolepsy","Autopsy"],answer:3,exp:"Autopsy is the examination of a dead body to determine cause of death."},
+
+{q:"Radiations that are emitted from nuclear wastes are known to cause ________ at a high rate.",options:["diseases","emotional defects","mutations","syndromes"],answer:2,exp:"Nuclear radiation can induce genetic mutations."},
+
+{q:"Which of the following is a bacterial sexually transmitted disease?",options:["HIV-AIDS","Warts","Chickenpox","Syphilis"],answer:3,exp:"Syphilis is caused by the bacterium Treponema pallidum."},
+
+{q:"Who discovered that mosquitoes spread malaria?",options:["Sir Ronald Ross","Sir Issac Newton","Michael S Brown","Homi Bhabha"],answer:0,exp:"Sir Ronald Ross proved that mosquitoes transmit malaria."},
+
+{q:"Consider the following statements and select the correct option. Statement A: Small quantities of ethanol cause drunkenness. Statement B: Intake of pure ethanol is safe for health.",options:["Both statements A and B are incorrect.","Both statements A and B are correct.","Statement A is correct, but B is incorrect.","Statement A is incorrect, but B is correct."],answer:2,exp:"Ethanol causes intoxication, but pure ethanol is harmful."},
+
+{q:"Bacteria that can grow and produce lethal toxins even inside the refrigerator are -",options:["Escherichia Coli","Salmonellae","Clostridium Botulinum","Streptococcus Faecalis"],answer:2,exp:"Clostridium botulinum can produce dangerous toxins under suitable conditions."},
+
+{q:"Ephepi epizootica, which is called 'disease of the feet and mouth', is caused by __________?",options:["Virus","Fungi","Algae","Bacteria"],answer:0,exp:"Foot-and-mouth disease is caused by a virus."},
+
+{q:"In which part of the body is thyroid gland situated?",options:["Head","Abdomen","Throat","Chest"],answer:2,exp:"The thyroid gland is located in the throat/neck region."},
+
+{q:"Which of the following statements is/are correct? Statements: I) Electromagnet is a device used to convert magnetic field into electrical energy. II) Electromagnet is a device used to convert mechanical energy into magnetic energy.",options:["Statement II only","Neither Statement I nor II","Both Statements I and II","Statement I only"],answer:1,exp:"Neither statement correctly describes an electromagnet."},
+
 ],
 set4: [
-{q:"बिहार विजन 2047?",options:["विकास","युद्ध","राजनीति","धर्म"],answer:0,exp:"विकास"},
-{q:"डिजिटल इंडिया?",options:["टेक","खेती","सेना","धर्म"],answer:0,exp:"टेक"}
-]
+{q:"The thyroid gland in the human body is located in / near the -",options:["Armpit","Spleen","Abdomen","Neck"],answer:3,exp:"The thyroid gland is located in the neck region."},
+
+{q:"What happens to metabolic activities in the absence of thyroxin?",options:["They slow down or become imbalanced","They only affect digestion","They stop completely","They speed up uncontrollably"],answer:0,exp:"Thyroxin regulates metabolism, so its absence slows metabolic activities."},
+
+{q:"A molecule of oxygen consists of how many atoms of oxygen?",options:["Eight","Six","Four","Two"],answer:3,exp:"An oxygen molecule is O₂ and contains two oxygen atoms."},
+
+{q:"'Pneumonia' is caused by the inflammation of ______________.",options:["Liver","Heart","Brain","Lungs"],answer:3,exp:"Pneumonia is an inflammatory condition affecting the lungs."},
+
+{q:"Consider the following statements regarding the characteristics of compounds and select the correct option. Statement 1: Elements react to form new compounds. Statement 2: Each new substance formed is of variable composition. Statement 3: The constituents can be separated only by chemical or electrochemical reactions.",options:["Only statements 1 and 3 are correct.","Only statements 1 and 2 are correct.","Statements 1, 2 and 3 are incorrect.","Statements 1, 2 and 3 are correct."],answer:0,exp:"Compounds have fixed composition and can be separated only by chemical means."},
+
+{q:"Which of the following helps in maintaining reproductive health?",options:["Junk food","Early marriage","Health education and medical care","Ignoring hygiene"],answer:2,exp:"Health education and proper medical care promote reproductive health."},
+
+{q:"In blood, oxygen is transported by _______.",options:["Red blood corpuscles","White blood corpuscles","Blood platelets","Lymph"],answer:0,exp:"Red blood corpuscles carry oxygen through haemoglobin."},
+
+{q:"A common drug in a first aid box is Ibuprofen. When should Ibuprofen be taken?",options:["To ease indigestion and heartburn","To aid in clotting of blood","To bring relief from asthma","To treat pain, fever and inflammation"],answer:3,exp:"Ibuprofen is commonly used to reduce pain, fever and inflammation."},
+
+{q:"Which of the following is a waterborne disease?",options:["Malaria","Influenza","Cholera","Small pox"],answer:2,exp:"Cholera spreads through contaminated water."},
+
+{q:"Which bioactive molecule is used as an immunosuppressive agent in organ transplant patients?",options:["Statement B","Streptocoines","Acetabacteria","Cyclosporin A"],answer:3,exp:"Cyclosporin A is widely used to prevent transplant rejection."},
+
+{q:"Which of the following occurs due to deficiency of Vitamin K?",options:["Neuritis","Non-maturation of ovum","Blastocyst formation in uterus","Failure of clotting of blood"],answer:3,exp:"Vitamin K is essential for blood clotting."},
+
+{q:"Besides being a barrier method of contraception, condoms also serve which of the following purposes?",options:["Help in transmission of STDs such as gonorrhoea","Prevent transmission of STDs such as gonorrhoea","Prevent diseases that spread through skin-to-skin contact","Decrease sexual desire"],answer:1,exp:"Condoms help prevent transmission of many sexually transmitted diseases."},
+
+{q:"Refer to the two statements given below and select the correct option. Statement A: Bleaching powder is produced by the action of chlorine on dry slaked lime. Statement B: Its chemical formula is CaOCl₂.",options:["Both statements A and B are correct.","Both statements A and B are incorrect.","Statement A is incorrect but B is correct.","Statement A is correct but B is incorrect."],answer:0,exp:"Bleaching powder is prepared from chlorine and dry slaked lime and is represented as CaOCl₂."},
+
+{q:"A person is said to be anemic if his body has deficiency of-",options:["Calcium and phosphorous","Red Blood Corpuscles","White Blood Corpuscles","Vitamins"],answer:1,exp:"Anaemia is associated with deficiency of red blood cells or haemoglobin."},
+
+{q:"Consider the following statements and select the correct option. Statement A: Washing soda is obtained by heating baking soda strongly. Statement B: It is used in glass, soap and paper industries.",options:["Statement A is incorrect but B is correct.","Statement A is correct but B is incorrect.","Both statements A and B are correct.","Both statements A and B are incorrect."],answer:0,exp:"Washing soda is used in glass, soap and paper industries, but it is not obtained directly by strongly heating baking soda."},
+
+{q:"All of the following are signals that sexual maturation is taking place, EXCEPT:",options:["increased size and shape of breast or penis","blue colour of eyes","different patterns of hair growth","girls begin to menstruate at around this time"],answer:1,exp:"Eye colour does not indicate sexual maturation."},
+
+{q:"Which of the following is a hereditary disease?",options:["Haemophilia","Cholera","Typhoid","Malaria"],answer:0,exp:"Haemophilia is a genetic disorder inherited through generations."},
+
+{q:"AIDS is caused by:",options:["Bacteria","Virus","Protozoa","Fungus"],answer:1,exp:"AIDS is caused by the Human Immunodeficiency Virus (HIV)."},
+
+{q:"Which disease is caused by deficiency of iodine?",options:["Anaemia","Goitre","Rickets","Scurvy"],answer:1,exp:"Iodine deficiency leads to enlargement of the thyroid gland called goitre."},
+
+{q:"Which blood group is known as the universal recipient?",options:["A","B","AB","O"],answer:2,exp:"People with AB blood group can receive blood from all ABO groups."},
+
+{q:"The deficiency of Vitamin C causes:",options:["Rickets","Beriberi","Scurvy","Night blindness"],answer:2,exp:"Scurvy results from deficiency of Vitamin C."},
+
+{q:"Which mosquito is responsible for transmitting dengue?",options:["Anopheles","Culex","Aedes","Housefly"],answer:2,exp:"Dengue is spread by Aedes mosquitoes."},
+
+{q:"The oxygen carrying pigment in blood is:",options:["Chlorophyll","Haemoglobin","Melanin","Carotene"],answer:1,exp:"Haemoglobin carries oxygen in the blood."},
+
+{q:"Which disease is caused by protozoa?",options:["Tuberculosis","Malaria","Polio","Rabies"],answer:1,exp:"Malaria is caused by the protozoan Plasmodium."},
+
+{q:"Which vitamin deficiency causes night blindness?",options:["Vitamin A","Vitamin B","Vitamin C","Vitamin D"],answer:0,exp:"Vitamin A deficiency causes night blindness."},
+
+{q:"Which component of blood is responsible for clotting?",options:["RBC","WBC","Platelets","Plasma"],answer:2,exp:"Platelets help in blood clotting."},
+
+{q:"BCG vaccine is used to prevent:",options:["Polio","Tuberculosis","Typhoid","Cholera"],answer:1,exp:"BCG vaccine protects against tuberculosis."},
+
+{q:"Which disease is transmitted through contaminated water?",options:["Malaria","Dengue","Cholera","Rabies"],answer:2,exp:"Cholera spreads through contaminated water."},
+
+{q:"Which blood cells protect the body against infections?",options:["Red blood cells","Platelets","White blood cells","Plasma"],answer:2,exp:"White blood cells defend the body against pathogens."},
+
+{q:"The deficiency of iron causes:",options:["Goitre","Anaemia","Rickets","Scurvy"],answer:1,exp:"Iron deficiency leads to anaemia."},
+
+{q:"Which disease is caused by bacteria?",options:["Polio","AIDS","Tuberculosis","Malaria"],answer:2,exp:"Tuberculosis is caused by bacteria."},
+
+{q:"Which vitamin is essential for blood clotting?",options:["Vitamin A","Vitamin B","Vitamin C","Vitamin K"],answer:3,exp:"Vitamin K is necessary for normal blood clotting."},
+
+],
+set5:[
+{q:"Which disease is prevented with the help of Salk's vaccine?",options:["Polio","Measles","Chicken pox","Small pox"],answer:0,exp:"Salk's vaccine is used to prevent polio."},
+
+{q:"Read the given statements and select the most appropriate option. Statement 1: When a ball is thrown vertically upward, its velocity decreases at the rate of g. Statement 2: The acceleration due to gravity acts downward even when the ball moves upward.",options:["Both Statements 1 and 2 are correct","Only Statement 1 is correct","Both Statements are incorrect","Only Statement 2 is correct"],answer:0,exp:"Gravity acts downward and reduces the upward velocity of the ball."},
+
+{q:"Which of the following is the outer covering of teeth?",options:["Skin","Ivory","Enamel","Gum"],answer:2,exp:"Enamel is the hard outer covering of teeth."},
+
+{q:"How many heart chambers do mammals have?",options:["three","four","two","single"],answer:1,exp:"Mammals possess a four-chambered heart."},
+
+{q:"Which of the following is commonly known as the 'Four D's disease' caused by severe deficiency of Vitamin B3?",options:["Pellagra","Goitre","Hypocalcemia","Beri Beri"],answer:0,exp:"Pellagra is caused by deficiency of niacin (Vitamin B3)."},
+
+{q:"Which of the following statement(s) is/are true regarding a concave lens? (i) A concave lens is also called a diverging lens. (ii) A concave lens always forms a real and inverted image of the object placed anywhere in front of it. (iii) A concave lens always forms a virtual and erect image of the object placed anywhere in front of it.",options:["Both (i) and (ii)","Only (iii)","Only (ii)","Both (i) and (iii)"],answer:3,exp:"A concave lens is diverging and forms a virtual erect image."},
+
+{q:"Select the option that is true regarding the following two statements labelled Assertion (A) and Reason (R). Assertion (A): Vasectomy leads to loss of sexual drive in males. Reason (R): It involves removal of the testes.",options:["Both A and R are true, and R is the correct explanation of A","A is false, but R is true","Both A and R are true, but R is not the correct explanation of A","Both A and R are false"],answer:3,exp:"Vasectomy does not remove testes and does not affect sexual drive."},
+
+{q:"Swelling in the joints caused by the accumulation of solid particles of uric acid is called _________.",options:["Gout","Epidemiology","Osteoporosis","Arthritis"],answer:0,exp:"Gout occurs due to deposition of uric acid crystals in joints."},
+
+{q:"Which of the following human diseases can be transmitted during sexual act?",options:["Protein Energy Malnutrition","Diabetes","Acquired Immuno Deficiency Syndrome","Cancer"],answer:2,exp:"AIDS can be transmitted through sexual contact."},
+
+{q:"Which of the following is/are NOT true about action reaction forces? (i) Action reaction forces are unequal in magnitude and always act in the same direction. (ii) Action reaction forces act on different bodies. (iii) Action reaction forces act on the same body.",options:["Both (i) and (iii)","Only (ii)","Only (iii)","Both (i) and (ii)"],answer:0,exp:"Action-reaction forces are equal, opposite and act on different bodies."},
+
+{q:"Which of the following correctly identifies the main components of a standard email structure?",options:["Subject Line, Recipient Address, Message Body and Signature","Recipient Address, CC, BCC and Attachment","Header, Body, Footer and Encryption Key","Username, Password, Message Body and Signature"],answer:0,exp:"A standard email includes recipient, subject, body and signature."},
+
+{q:"Select the correct option regarding the given statements. Statement 1: The compound CH₃–CH₂–CHO is propanone. Statement 2: Aldehydes are named using the suffix '–al'.",options:["Statement 1 is false but Statement 2 is true.","Both statements are true but Statement 2 is not the correct explanation of Statement 1.","Statement 1 is true but Statement 2 is false.","Both statements are true and Statement 2 is the correct explanation of Statement 1."],answer:0,exp:"CH₃–CH₂–CHO is propanal, while aldehydes use the suffix '-al'."},
+
+{q:"Which disease is caused by a dog bite?",options:["Scurvy","Rabies","Influenza","Cancer"],answer:1,exp:"Rabies is commonly transmitted through infected dog bites."},
+
+{q:"For which of the following diseases has U.S. FDA approved the first vaccine Dengvaxia in 2019?",options:["Dengue","Cholera","Swine flu","Chikungunya"],answer:0,exp:"Dengvaxia was approved for prevention of dengue."},
+
+{q:"Identify the one that is not a Class 1 lever.",options:["Scissors","Pliers","See-saw","Nut cracker"],answer:3,exp:"A nut cracker is a Class II lever."},
+
+{q:"Which of the following is NOT correctly matched?",options:["Typhoid : Bacteria","Measles : Bacteria","Malaria : Protozoa","Tetanus : Bacteria"],answer:1,exp:"Measles is caused by a virus, not bacteria."},
+
+{q:"Which of the following is a reproductive cell?",options:["Lymphocytes","Gamete","RBC","WBC"],answer:1,exp:"Gametes are reproductive cells involved in sexual reproduction."},
+
+{q:"Which of the following transports food, carbon dioxide and nitrogenous wastes in a dissolved form?",options:["Plasma","Blood platelets","Lymph","Red blood corpuscles"],answer:0,exp:"Plasma carries dissolved nutrients, gases and wastes."},
+
+{q:"Which of the following diseases can be prevented by using a mechanical barrier contraceptive method?",options:["AIDS","Typhoid","TB","Malaria"],answer:0,exp:"Barrier methods help prevent AIDS transmission."},
+
+{q:"Which of the following is a pigment present in human blood that carries oxygen from our lungs to all parts of the body?",options:["Haemoglobin","White blood cells","Platelets","Lymph"],answer:0,exp:"Haemoglobin transports oxygen in the blood."},
+
+{q:"Which disease is caused by the accumulation of lipids in brain cells due to the deficiency or inactivation of lipid digesting enzymes?",options:["Tay-Sachs disease","Huntington’s disease","Parkinson’s disease","Alzheimer’s disease"],answer:0,exp:"Tay-Sachs disease results from lipid accumulation in brain cells."},
+
+{q:"Which bacterial disease is specifically confirmed by a serological method?",options:["Plague","Diphtheria","Typhoid","Pneumonia"],answer:2,exp:"Typhoid is commonly confirmed using serological tests."},
+
+{q:"The sexually transmitted disease AIDS is caused by which of the following?",options:["Virus","Helminths","Bacteria","Protozoa"],answer:0,exp:"AIDS is caused by HIV, which is a virus."},
+
+{q:"Herbicides protect crops by ________.",options:["Killing fungi","Killing weeds","Killing bacteria","Killing insects"],answer:1,exp:"Herbicides are used to destroy weeds."},
+
+{q:"In a situation where we are injured and start bleeding, the bleeding could lead to a loss of pressure that could reduce the efficiency of the pumping system. To avoid this, which cells mainly help to clot blood at the injury point?",options:["Red blood corpuscles","Lymph","White blood corpuscles","Blood platelets"],answer:3,exp:"Platelets help in blood clotting."},
+
+{q:"What are antibiotics?",options:["Drugs prepared from moulds and mould like organisms","Special medicines used during surgical operations","Sleeping pills","Anaesthetic substances"],answer:0,exp:"Many antibiotics are obtained from microorganisms such as moulds."},
+
+{q:"Which of the following organs secretes bile juice?",options:["Liver","Heart","Brain","Kidney"],answer:0,exp:"The liver secretes bile juice."},
+
+{q:"Deficiency of Vitamin C causes:",options:["scurvy","goiter","loss of vision","beriberi"],answer:0,exp:"Scurvy is caused by Vitamin C deficiency."},
+
+{q:"Paracetamol is found in first-aid boxes. When/why should these drugs be taken?",options:["To bring relief from asthma.","To ease the symptoms of hay fever and other allergies.","To ease indigestion and heartburn.","To ease mild pain and reduce high temperature (fever)."],answer:3,exp:"Paracetamol is used for fever and mild pain relief."},
+
+{q:"Pituitary gland, one of the most important glands of our body, is located-",options:["Inside the stomach","Inside the skull","Near the lower end of the backbone","Inside the chest"],answer:1,exp:"The pituitary gland is situated inside the skull."},
+
+{q:"Which unique property of Plasmodium makes malaria a cyclical disease with periodic fever?",options:["Constant reinfection from environment","RBC rupture and toxin release every few days","Continual entry via mosquito bites","Infection of liver cells only"],answer:1,exp:"Periodic rupture of infected RBCs causes recurring fever."},
+
+{q:"Pons is a part of human:",options:["heart","adrenal gland","brain","kidney"],answer:2,exp:"Pons is a part of the brainstem."},
+
+],
+set6:[
+{q:"Anaemic condition is due to",options:["Deficiency of platelets.","Deficiency of RBC.","Deficiency of WBC.","Deficiency of oxidants."],answer:1,exp:"Anaemia is mainly caused by deficiency of red blood cells."},
+
+{q:"At the place of a cut or injury, the clot or conglom (red brown color) goes away after some time. This is a network of ____________ fibers.",options:["Lymph","Willie","Fibrin","Platelets"],answer:2,exp:"Blood clot consists of a network of fibrin fibres."},
+
+{q:"The HIV virus impacts the human immune system. What does the abbreviation HIV stand for?",options:["Human Immunodeficiency Virus","Human Immune Virus","Human Inflammatory Virus","Human Infection Virus"],answer:0,exp:"HIV stands for Human Immunodeficiency Virus."},
+
+{q:"Who are the parents of immunology?",options:["Edward Jenner","Antoni van Leuvenhoek","Robert Coach","Karl Linyenius"],answer:0,exp:"Edward Jenner is regarded as the father of immunology."},
+
+{q:"Which of the following statements is/are correct? Statements: I) A current carrying coil produces magnetic field. II) A current carrying solenoid behaves like a bar magnet.",options:["Neither Statement I nor II","Statement I only","Statement II only","Both Statements I and II"],answer:3,exp:"A current carrying solenoid behaves like a bar magnet and produces a magnetic field."},
+
+{q:"Which of the following statements is/are correct? a. Zinc granules when placed in dilute sulphuric acid, hydrogen gas is evolved. b. Zinc granules when placed in sodium hydroxide solution forms zinc hydroxide. c. Zinc granules when placed in sodium hydroxide forms sodium zincate.",options:["a and b","Only b","a and c","Only a"],answer:2,exp:"Zinc evolves hydrogen with dilute sulphuric acid and forms sodium zincate with sodium hydroxide."},
+
+{q:"Select the option that is true regarding the following two statements labelled Assertion (A) and Reason (R). Assertion (A): Soap solution appears cloudy. Reason (R): The soap micelles are large enough to scatter light.",options:["Both A and R are true, and R is not the correct explanation of A.","A is false, but R is true.","Both A and R are true, and R is the correct explanation of A.","A is true, but R is false."],answer:2,exp:"Soap micelles scatter light, making the solution appear cloudy."},
+
+{q:"The protein in haemoglobin is-",options:["Albumin","Haem","Globin","Globulin"],answer:2,exp:"Globin is the protein part of haemoglobin."},
+
+{q:"Newborns receive the BCG vaccine at birth. BCG stands for ____.",options:["Bladder Cancer Gene","Bacillus Calmette-Guerin","Basal Cell Carcinoma","Bacterial Capsular Genes"],answer:1,exp:"BCG stands for Bacillus Calmette-Guerin."},
+
+{q:"Which of the following statements are true regarding electrical safety practices? 1. It is safe to plug multi-outlet bars into other multi-outlet bars as long as the total load does not exceed the rated capacity of the outlet. 2. Electrical appliances should not be used near damp surfaces or when your hands are wet, and electrical cords should be protected by not placing them under rugs or mats.",options:["Neither statement 1 nor statement 2 is true.","Only statement 2 is true.","Both statement 1 and statement 2 are true.","Only statement 1 is true."],answer:1,exp:"Electrical appliances should not be used with wet hands or near damp surfaces."},
+
+{q:"In which chronic disease do the inner walls of the lungs' air sacs, called alveoli, become damaged, causing them to eventually burst?",options:["Emphysema","Dyspepsia","Arrhythmias","Cystic fibrosis"],answer:0,exp:"Emphysema damages alveoli and reduces breathing efficiency."},
+
+{q:"Which of the following is NOT a factor responsible for grain storage losses?",options:["High-quality packaging","Inadequate moisture and temperature","Fungi and bacteria","Rodents"],answer:0,exp:"High-quality packaging helps prevent grain storage losses."},
+
+{q:"The EEG (electroencephalogram) test is conducted for diagnosing ailments of which of the following organs?",options:["Stomach","Lungs","Brain","Heart"],answer:2,exp:"EEG is used to diagnose disorders related to the brain."},
+
+{q:"The testes are located in the _______ because sperm formation requires a lower temperature than the normal body temperature.",options:["prostate","abdomen","bladder","scrotum"],answer:3,exp:"The scrotum maintains a lower temperature needed for sperm production."},
+
+{q:"Read the given statements with regards to importance of variation produced by sexual reproduction in plants and select the most appropriate option. Statement A: Reproduction is linked to the stability of populations of species. Statement B: Variation is thus not useful for the survival of species over time.",options:["Statement A is incorrect but statement B is correct","Statement A is correct but statement B is incorrect","Both Statement A and statement B is incorrect","Both Statement A and statement B is correct"],answer:1,exp:"Variation helps species survive over time, so Statement B is incorrect."},
+
+{q:"Which of the following statements refer/s to the law of conservation of energy? Statements: I) Energy can be converted from one form to another form of energy. II) Energy can neither be created nor destroyed.",options:["Both Statements I and II","Only Statement I","Neither Statement I nor II","Only Statement II"],answer:0,exp:"Energy can change form but cannot be created or destroyed."},
+
+{q:"Which sexually transmitted diseases are caused by a viruses?",options:["Warts and Gonorrhoea","Gonorrhoea and Syphilis","Syphilis and AIDS","Warts and AIDS"],answer:3,exp:"Warts and AIDS are caused by viruses."},
+
+{q:"Which of the following components is absent in lymph but present in blood?",options:["Platelets","Plasma","Water","White blood cells (WBCs)"],answer:0,exp:"Platelets are present in blood but absent in lymph."},
+
+{q:"Which is the largest internal organ in the human body?",options:["Pancreas","Kidneys","Heart","Liver"],answer:3,exp:"The liver is the largest internal organ in the human body."},
+
+{q:"Jaundice is a disease of the ________.",options:["Liver","Eye","Lung","Heart"],answer:0,exp:"Jaundice is mainly associated with liver dysfunction."},
+
+{q:"Which of the following is a viral disease?",options:["Measles","Beriberi","Syphilis","Rickets"],answer:0,exp:"Measles is caused by a virus."},
+
+{q:"The pupil is a part of",options:["Gall Bladder","Bone Marrow","Kidney","Eye"],answer:3,exp:"The pupil is the opening present in the eye."},
+
+{q:"Which of the following bacterial infections is considered a sexually transmitted disease (STD)?",options:["Pneumonia","Gonorrhoea","Typhoid","Tuberculosis"],answer:1,exp:"Gonorrhoea is a bacterial sexually transmitted disease."},
+
+{q:"The friction in liquids is called:",options:["Viscosity","Morbidity","Rigidity","Rancidity"],answer:0,exp:"Viscosity is the frictional resistance offered by liquids."},
+
+{q:"Select the correct statement(s). A. Testosterone brings about changes in appearance seen in boys at the time of puberty. B. Progesterone brings about changes in appearance seen in boys at the time of puberty.",options:["Both the statements are false.","Both the statements are true.","Statement B is true but A is false.","Statement A is true but B is false."],answer:3,exp:"Testosterone causes puberty changes in boys, not progesterone."},
+
+{q:"Which of the following statements are correct about molecular mass? Statement 1: The molecular mass of a substance is the sum of the atomic masses of all the atoms in a molecule of the substance. Statement 2: It is also known as the relative mass of a molecule. Statement 3: It is expressed in atomic mass units (u).",options:["Only Statements 1 and 3 are correct.","Statements 1, 2 and 3 are correct.","Only statements 2 and 3 are correct.","Only statements 1 and 2 are correct."],answer:1,exp:"All three statements correctly describe molecular mass."},
+
+{q:"Which of the following is a viral infection that can be transmitted through sexual contact?",options:["Tuberculosis","Gonorrhoea","Syphilis","HIV-AIDS"],answer:3,exp:"HIV-AIDS is a viral infection that can spread through sexual contact."},
+
+],
+set7:[{q:"हिमालय?",options:["पहाड़","नदी","समुद्र","रेगिस्तान"],answer:0,exp:"पहाड़"},{q:"राजस्थान?",options:["राज्य","देश","नगर","द्वीप"],answer:0,exp:"राज्य"}],
+set8:[{q:"भारत?",options:["देश","राज्य","नगर","जिला"],answer:0,exp:"देश"},{q:"कोसी?",options:["नदी","पहाड़","झील","घाट"],answer:0,exp:"नदी"}],
+set9:[{q:"हिमालय?",options:["पहाड़","नदी","समुद्र","रेगिस्तान"],answer:0,exp:"पहाड़"},{q:"राजस्थान?",options:["राज्य","देश","नगर","द्वीप"],answer:0,exp:"राज्य"}],
+set10:[{q:"भारत?",options:["देश","राज्य","नगर","जिला"],answer:0,exp:"देश"},{q:"कोसी?",options:["नदी","पहाड़","झील","घाट"],answer:0,exp:"नदी"}],
 },
 
 july: {set1:[{q:"बिहार?",options:["राज्य","देश","जिला","नगर"],answer:0,exp:"राज्य"},{q:"गंगा?",options:["नदी","पहाड़","रेगिस्तान","झील"],answer:0,exp:"नदी"}],
