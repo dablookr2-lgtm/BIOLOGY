@@ -347,22 +347,6 @@ body{
 /* ================= MOBILE ================= */
 @media screen and (max-width:768px){
 
-.topics{
-    display:flex !important;
-    flex-wrap:nowrap !important;
-    overflow-x:auto !important;
-    white-space:nowrap !important;
-    width:100% !important;
-    justify-content:flex-start !important;
-    -webkit-overflow-scrolling:touch;
-}
-
-.topic-btn{
-    flex:0 0 auto !important;
-}
-
-}
-
 .app{
     flex-direction:column;
 }
