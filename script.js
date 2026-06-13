@@ -156,12 +156,311 @@ set3: [
 {q:"Which of the following characteristics correctly describes skeletal (striated) muscles?",options:["Spindle-shaped, uninucleate cells, involuntary control","Branched, uninucleate cells, involuntary control","Short, cylindrical, branched cells with intercalated discs","Long, cylindrical, unbranched, multinucleate cells, voluntary control"],answer:3,exp:"Skeletal muscles are long, cylindrical, multinucleate and under voluntary control."},
 
 {q:"Which of the following are cells of phloem?",options:["Sieve cells and vessels","Tracheids and vessels","Sieve tubes and companion cells","Tracheids and companion cells"],answer:2,exp:"Phloem is mainly composed of sieve tubes and companion cells."},
-{q:"नालंदा कहाँ था?",options:["बिहार","MP","UP","राजस्थान"],answer:0,exp:"बिहार"}
+
+{q:"Which of the following cell organelle is present ONLY in animal cells but not in plant cells?",options:["Vacuole","Golgi apparatus","Mitochondria","Centrosome"],answer:3,exp:"Centrosome is present in animal cells and absent in higher plant cells."},
+
+{q:"Which of the following cell organelles release adenosine triphosphate (ATP)?",options:["Vacuole","Lysosomes","Endoplasmic reticulum","Mitochondria"],answer:3,exp:"Mitochondria produce ATP and are called the powerhouse of the cell."},
+
+{q:"Dendrons are parts of -",options:["Nephron","Cartilage","Muscle Cell","Neuron"],answer:3,exp:"Dendrons are branched projections of a neuron."},
+
+{q:"Which of the following cell organelles do NOT have their own DNA?",options:["Lysosomes","Nucleus","Mitochondria","Plastids"],answer:0,exp:"Lysosomes do not contain their own DNA."},
+
+{q:"In a multicellular organism, how does each cell support the survival of the organism?",options:["By converting itself into a complete organ","By trying to carry out all life functions by itself","By working independently without interacting with other cells","By following division of labour"],answer:3,exp:"Cells perform specialized functions through division of labour."},
+
+{q:"Who coined the term ‘protoplasm’ for the fluid substance of the cell?",options:["Virchow","Robert Brown","Purkinje","Robert Hooke"],answer:2,exp:"J.E. Purkinje coined the term protoplasm."},
+
+{q:"What is the term used for the division of cytoplasm following nuclear division?",options:["Chromatin condensation","Karyokinesis","Cytokinesis","Interphase"],answer:2,exp:"Cytokinesis is the division of cytoplasm after nuclear division."},
+
+{q:"The fluid content inside the plasma membrane is named:",options:["Chromatin","Genes","Cytoplasm","Chromosomes"],answer:2,exp:"Cytoplasm is the jelly-like fluid inside the plasma membrane."},
+
+{q:"The efficiency of gas exchange in the alveoli is primarily attributed to which structural characteristic?",options:["Thick epithelial lining to protect from pathogens","Abundance of mucus-secreting cells","A robust elastic network to maintain alveolar shape","Large surface area combined with a thin alveolar-capillary barrier"],answer:3,exp:"Alveoli provide a large surface area and thin walls for efficient gas exchange."},
+
+{q:"Rough endoplasmic reticulum (RER) bears _____ for protein synthesis, while smooth endoplasmic reticulum (SER) synthesizes _____.",options:["Enzymes; sugars","Ribosomes; lipids","Lysosomes; DNA","Pores; RNA"],answer:1,exp:"RER contains ribosomes while SER synthesizes lipids."},
+
+{q:"Which of the following cell organelles releases Adenosine Tri Phosphate (ATP) molecules needed for life activities?",options:["Mitochondria","Vacuoles","Golgi apparatus","Lysosomes"],answer:0,exp:"ATP is produced in mitochondria during respiration."},
+
+{q:"What specialisation is commonly found in the epidermal cells of plant roots to aid in their primary function?",options:["Irregularly thickened corners","Large air cavities (aerenchyma)","A thick, waxy coating of cutin","Long, hair-like extensions"],answer:3,exp:"Root hairs increase surface area for absorption."},
+
+{q:"What unique feature allows mitochondria to produce some of their own proteins?",options:["They contain their own DNA and ribosomes","They have two membranes","They produce ATP","Their outer membrane is porous"],answer:0,exp:"Mitochondria possess their own DNA and ribosomes."},
+
+{q:"Name the scientist who first discovered the cell in 1665.",options:["Matthias Jakob Schleiden","Theodor Schwann","Antonie van Leeuwenhoek","Robert Hooke"],answer:3,exp:"Robert Hooke discovered cells in cork in 1665."},
+
+{q:"Who first observed the densely stained reticular structures near the nucleus, now known as Golgi bodies?",options:["Robert Hooke","Camillo Golgi","Matthias Schleiden","Anton van Leeuwenhoek"],answer:1,exp:"Golgi bodies were discovered by Camillo Golgi."},
+
+{q:"Which of the following represents a group of similar cells performing a specific function?",options:["Organelles","Plasmids","Cytoplasm","Tissues"],answer:3,exp:"A tissue is a group of similar cells performing a common function."},
+
+{q:"Which of the following organelles is the first to divide during binary fission in Amoeba?",options:["Cell wall","Cytoplasm","Nucleus","Vacuole"],answer:2,exp:"Nuclear division occurs before cytoplasmic division."}
+
 ],
 set4: [
-{q:"समुद्रगुप्त को क्या कहा जाता है?",options:["भारत का नेपोलियन","अशोक","चंद्रगुप्त","हर्ष"],answer:0,exp:"नेपोलियन ऑफ इंडिया"},
-{q:"हर्षवर्धन कौन था?",options:["शासक","किसान","व्यापारी","सैनिक"],answer:0,exp:"शासक"}
-]
+{q:"The smallest unit of life capable of independent existence is:",options:["Protoplasm","Cytoplasm","Cell","Vacuoles"],answer:2,exp:"Cell is the basic structural and functional unit of life."},
+
+{q:"The cell wall of plant cells is formed of:",options:["Cellulose","Cell wall membrane","The nucleus membrane","Molecular membrane"],answer:0,exp:"Plant cell walls are mainly composed of cellulose."},
+
+{q:"In multicellular organisms like humans, digestion occurs in:",options:["Food vacuoles","Entire cell surface","Nucleus","Specialised digestive organs"],answer:3,exp:"Humans digest food through specialised digestive organs."},
+
+{q:"Which of the following statements correctly compares vacuoles in plant and animal cells?",options:["Vacuoles are absent in both plant and animal cells","Animal cells have larger vacuoles than plant cells","Plant cells have large vacuoles, animal cells have small ones","Both plant and animal cells have equal-sized vacuoles"],answer:2,exp:"Plant cells usually have a large central vacuole."},
+
+{q:"Which of the following is INCORRECT about meristematic tissues?",options:["Lack of vacuoles","Thin walled","Presence of vacuoles","Actively dividing cells"],answer:2,exp:"Meristematic cells generally lack vacuoles."},
+
+{q:"Which cell organelles in a leaf contain chlorophyll necessary for photosynthesis?",options:["Nucleus","Chloroplasts","Mitochondria","Vacuole"],answer:1,exp:"Chloroplasts contain chlorophyll for photosynthesis."},
+
+{q:"Which of the following cell organelles stores starch, oil and protein granules?",options:["All plastids","Leucoplast","Chromoplast","Chloroplast"],answer:1,exp:"Leucoplasts store food materials like starch, oils and proteins."},
+
+{q:"Which organelle is called the 'suicidal bag' of the cell?",options:["Ribosome","Golgi body","Mitochondria","Lysosome"],answer:3,exp:"Lysosomes contain digestive enzymes that can digest cell components."},
+
+{q:"Why can tiny molecules like oxygen easily pass through the cell membrane, but not the big ones like starch or proteins?",options:["Small molecules have special energy to push through","Big molecules have to break down for entry","The cell membrane is permeable to selective substances","The cell membrane is completely solid"],answer:2,exp:"The plasma membrane is selectively permeable."},
+
+{q:"Which of the following statements is INCORRECT?",options:["In Amoeba, splitting can take place in any plane","Yeast forms buds that separate and grow","Plasmodium divides into many daughter cells simultaneously by binary fission","Binary fission occurs in a definite orientation in Leishmania"],answer:2,exp:"Plasmodium reproduces by multiple fission, not binary fission."},
+
+{q:"If multiple fission :: many cells, then binary fission :: ______.",options:["Two cells","Three cells","Four cells","One cell"],answer:0,exp:"Binary fission produces two daughter cells."},
+
+{q:"What is the main purpose of cell division in multicellular organisms?",options:["Growth, repair, and replacement of damaged or old cells","Absorption of nutrients and release of wastes","Transport of substances through the cell membrane","Formation of vacuoles and maintenance of turgidity"],answer:0,exp:"Cell division helps in growth, repair and replacement."},
+
+{q:"When a living plant cell loses water through osmosis, what happens to the cell contents?",options:["They remain unchanged","They dissolve","They swell and burst","They contract and move away from the cell wall"],answer:3,exp:"Loss of water causes plasmolysis."},
+
+{q:"Which of the following cells change shape by changing the amount of water in them?",options:["Smooth muscle cell","Striated muscle cell","Cardiac muscle cell","Plant cell"],answer:3,exp:"Plant cells change shape due to changes in turgor pressure."},
+
+{q:"Which structure is present in plant cells but absent in animal cells?",options:["Cell wall","Mitochondria","Endoplasmic reticulum","Cytoplasm"],answer:0,exp:"Animal cells do not possess a cell wall."},
+
+{q:"The study of different types of tissues is called:",options:["Cytology","Cell physiology","Cell biology","Histology"],answer:3,exp:"Histology is the study of tissues."},
+
+{q:"Which statement is INCORRECT regarding prokaryotic organism?",options:["Nuclear region is defined","Primitive form of organism","Membrane-bound organelles are absent","Single chromosome is present"],answer:0,exp:"Prokaryotes lack a true nucleus."},
+
+{q:"Prokaryotic cells differ from eukaryotic cells in having which of the following?",options:["Membrane-bound organelles","No membrane-bound nucleus","A true nucleus","Ribosomes"],answer:1,exp:"Prokaryotes do not have a membrane-bound nucleus."},
+
+{q:"The plant cell wall is primarily composed of:",options:["Cellulose","Chitin","Suberin","N-Acetyl glucosamine"],answer:0,exp:"Cellulose is the main component of plant cell walls."},
+
+{q:"The double-layered covering of the nucleus is called as ______.",options:["Cell wall","Nuclear membrane","Chromatin wall","Plasma membrane"],answer:1,exp:"The nucleus is enclosed by a double-layered nuclear membrane."},
+
+{q:"Which cell organelle is known as the 'suicide bag'?",options:["Ribosome","Lysosome","Centrosome","Cytoplasm"],answer:1,exp:"Lysosomes contain hydrolytic enzymes."},
+
+{q:"The cellular organelles are suspended in a jelly called _________.",options:["Cytoplasm","Lumen","Stroma","Nucleoplasm"],answer:0,exp:"Cell organelles remain suspended in the cytoplasm."},
+
+{q:"Which is the largest organelle in a cell?",options:["Mitochondria","Endoplasmic reticulum","Nucleus","Golgi body"],answer:2,exp:"The nucleus is usually the largest organelle in eukaryotic cells."},
+
+{q:"Which of the following is the characteristic of striated muscles?",options:["Cylindrical, branched and multinucleate","Spindle-shaped, unbranched and multinucleate","Spindle-shaped, unbranched and uninucleate","Cylindrical, unbranched and multinucleate"],answer:3,exp:"Striated muscles are cylindrical, unbranched and multinucleate."},
+
+{q:"Why is the plasma membrane called a selectively permeable membrane?",options:["It prevents all materials from entering or leaving the cell","It controls energy production for the entire cell","It allows only certain substances to pass through while restricting others","It allows free and equal movement of all substances"],answer:2,exp:"Only selected substances can cross the plasma membrane."},
+
+{q:"When observing onion peel and cheek cells under a microscope, which part appears lightly stained and contains many organelles?",options:["Nucleus","Cytoplasm","Cell membrane only","Cell wall only"],answer:1,exp:"The cytoplasm contains most cell organelles."},
+
+{q:"Organisms whose cells lack a nuclear membrane are called _______.",options:["Eukaryotes","Prokaryotes","Cytoplasm","Chromatin"],answer:1,exp:"Prokaryotes do not have a nuclear membrane."},
+
+{q:"By which process do plants release water from hydathodes on leaf margins?",options:["Guttation","Wilting","Cytomixis","Cavitation"],answer:0,exp:"Guttation is the loss of water through hydathodes."},
+
+{q:"Which of the following features are displayed by all cells under a microscope?",options:["Only nucleus and cytoplasm","Plasma membrane, nucleus and cytoplasm","Only plasma membrane and nucleus","Only plasma membrane and cytoplasm"],answer:3,exp:"All cells possess plasma membrane and cytoplasm."},
+
+{q:"Where is glucose converted into pyruvate?",options:["Ribosome","Cytoplasm","Golgi complex","Mitochondria"],answer:1,exp:"Glycolysis occurs in the cytoplasm."},
+
+{q:"Which of the following is present only in plant cell?",options:["Cell wall","Vacuoles","Nucleus","Endoplasmic reticulum"],answer:0,exp:"Cell wall is absent in animal cells."},
+
+{q:"Which of the following statements is correct regarding mitochondria in a plant cell?",options:["Mitochondria does not have its own DNA","Mitochondria performs photosynthesis","Mitochondria has a single membranous covering","The mitochondrial inner membrane is deeply folded"],answer:3,exp:"The inner membrane forms cristae to increase surface area."},
+
+{q:"Which cell organelle is associated with generation of ATP?",options:["Lysosomes","Mitochondria","Chloroplast","Endoplasmic reticulum"],answer:1,exp:"Mitochondria are the powerhouse of the cell."},
+
+{q:"When salt solution is applied to boiled Rhoeo leaf peels, it fails to show plasmolysis due to:",options:["Chlorophyll takes up water","Walls block salts","Nuclei stop diffusion","Dead cells cannot osmoregulate"],answer:3,exp:"Plasmolysis occurs only in living cells."},
+
+{q:"Which of the following is true about trichomes on the stem?",options:["They are present only in roots","They never function in water retention","They are always unbranched and unicellular","They are multicellular and may be secretory"],answer:3,exp:"Stem trichomes may be multicellular and secretory."},
+
+{q:"Every cell has a _________ around it to keep its contents separate from the external environment.",options:["Mitochondria","Cell wall","Membrane","Nucleus"],answer:2,exp:"The plasma membrane separates cell contents from the environment."},
+
+{q:"The deeply folded inner membrane of mitochondria helps to increase the _________ for ATP generation.",options:["Surface area","Cell wall thickness","Colour","Volume"],answer:0,exp:"Cristae increase the surface area for respiration."},
+
+{q:"Due to presence of which particle does Rough Endoplasmic Reticulum look rough under a microscope?",options:["Centrosome","Lysosome","Ribosome","Peroxisome"],answer:2,exp:"Ribosomes attached to RER make it appear rough."},
+
+{q:"In the respiratory tract, columnar epithelium possesses cilia. What is the primary function of these cilia?",options:["To move and push mucus forward to clear it","To provide only mechanical support","To secrete substances","To increase surface area for absorption"],answer:0,exp:"Cilia help remove mucus and trapped particles."},
+
+{q:"Why does the growth of an onion root stop after its tip is cut?",options:["The intercalary meristem starts working","The apical meristem that produces new cells is removed","The lateral meristem gets damaged","The meristematic cells lose their vacuoles"],answer:1,exp:"Root growth occurs due to the apical meristem."},
+
+{q:"Which cell organelle is responsible for packaging and dispatching materials within or outside the cell?",options:["Mitochondria","Ribosome","Nucleus","Golgi apparatus"],answer:3,exp:"Golgi apparatus packages and transports materials."},
+
+{q:"What is the gap between two neurons called?",options:["Stroma","Synapse","Lumen","Intermembrane space"],answer:1,exp:"Signals pass between neurons through a synapse."},
+
+{q:"Which of the following is NOT the characteristic of epithelial tissue?",options:["Cells have no intercellular spaces","Skin and kidney tubules are made of epithelial tissue","Cells are loosely arranged","Cells form a continuous sheet"],answer:2,exp:"Epithelial cells are tightly packed, not loosely arranged."},
+
+{q:"In which of the following organisms is fragmentation common?",options:["Only a few multicellular organisms","In all unicellular organisms","In all multicellular organisms","Only in few unicellular organisms"],answer:0,exp:"Fragmentation occurs in some multicellular organisms like Spirogyra."},
+
+{q:"Chloroplast is present in which of the following parts of a cell?",options:["Nucleoplasm","Peroxisome","Cytoplasm","Endoplasmic reticulum"],answer:2,exp:"Chloroplasts are suspended in the cytoplasm."},
+
+{q:"In a hypotonic solution, which statement is correct for animal tissues compared with plant tissues?",options:["Animal cells resist swelling due to a rigid wall","Animal cells have thicker cellulose walls than plants","Animal cells are more likely to lyse without an external wall","Animal cells shrink more than plant cells"],answer:2,exp:"Animal cells may burst because they lack a rigid cell wall."},
+
+{q:"Which description correctly characterises parenchyma cells in the pith of a mature stem?",options:["Large, loosely arranged living cells for storage","Tightly packed dead cells aiding support and conduction","Thick-walled lignified cells for strength","Sclerenchyma fibers forming a protective cylinder"],answer:0,exp:"Parenchyma cells are living storage cells."},
+
+{q:"Meristematic tissue in plants is mainly characterized by:",options:["Permanent storage cells","Mature cells with thick walls","Small, actively dividing cells with thin walls","Large, highly vacuolated cells"],answer:2,exp:"Meristematic cells divide actively and have thin walls."},
+],
+set5:[
+
+{q:"What is the primary component of the plant cell wall?",options:["Lignin","Cutin","Suberin","Cellulose"],answer:3,exp:"Cellulose is the main structural component of plant cell walls."},
+
+{q:"Glucose molecule breaks down into _______.",options:["Pyruvic acid","Lactic acid","Cytoplasm","Mitochondria"],answer:0,exp:"Glucose is converted into pyruvic acid during glycolysis."},
+
+{q:"Which of the following describes a key function of lysosomal enzymes?",options:["Breaking down proteins, lipids, and carbohydrates","Creating new proteins for the cell","Transporting molecules across the membrane","Storing genetic material"],answer:0,exp:"Lysosomal enzymes digest complex biological molecules."},
+
+{q:"In glycolysis, which enzyme catalyses the rate-limiting phosphorylation of fructose-6 phosphate?",options:["Phosphofructokinase-1 (PFK-1)","Pyruvate kinase","Hexokinase","Glyceraldehyde-3-phosphate dehydrogenase"],answer:0,exp:"PFK-1 is the key regulatory enzyme of glycolysis."},
+
+{q:"Which of the following is true about the cells of meristematic tissue?",options:["They are loosely packed, mature cells with large intercellular spaces","They are active cells with dense cytoplasm, thin walls, prominent nuclei and no vacuoles","They are inactive with large vacuoles and thick walls","They are dead cells with no nucleus or cytoplasm"],answer:1,exp:"Meristematic cells actively divide and lack vacuoles."},
+
+{q:"When onion bulbs of different sizes are viewed under a microscope, all show similar rectangular structures. This proves that _________.",options:["Only big onions have cells","Cells differ in an onion","Cork cells are living","All living things are made of cells"],answer:3,exp:"Cell theory states that all living organisms are made of cells."},
+
+{q:"Which of the following is the rod-shaped structure found in the nucleus only when the cell is about to divide?",options:["Mitochondria","Lysosomes","Chromosomes","Chromatin"],answer:2,exp:"Chromosomes become visible during cell division."},
+
+{q:"Cells of the meristematic tissue lack vacuoles because:",options:["Meristematic cells are actively dividing and need a dense cytoplasm","Vacuoles cause cell death","Meristematic cells are dead and do not need vacuoles","Vacuoles block respiratory enzymes"],answer:0,exp:"Dense cytoplasm supports rapid cell division."},
+
+{q:"In phloem, which of the following cells are dead cells?",options:["Companion cells","Phloem fibres","Sieve cells","Phloem parenchyma"],answer:1,exp:"Phloem fibres are dead supportive cells."},
+
+{q:"A large central vacuole is a characteristic feature of which of the following cells?",options:["Protozoan cells","Bacterial cells","Plant cells","Animal cells"],answer:2,exp:"Plant cells contain a large central vacuole."},
+
+{q:"During an experiment, a cell is damaged and its lysosomes burst, releasing digestive enzymes into the cytoplasm. What is most likely to happen next?",options:["The cell will grow in size","The mitochondria will produce more energy","The nucleus will divide rapidly","The cell will destroy itself and die"],answer:3,exp:"Lysosomal enzymes can digest the cell itself."},
+
+{q:"What is the reason for the formation of a bud in Hydra?",options:["Cell cycle","Mutation","Repeated cell division at one specific site","Overgrowth of the whole body"],answer:2,exp:"Budding occurs due to repeated mitotic divisions at a specific site."},
+
+{q:"Which of the following is absent in cells of meristematic tissue?",options:["Nuclei","Vacuoles","Cell walls","Cytoplasm"],answer:1,exp:"Meristematic cells generally lack vacuoles."},
+
+{q:"The branch of science that studies cells is called ________.",options:["Cytology","Entomology","Homoplastic","Hormonology"],answer:0,exp:"Cytology is the study of cells."},
+
+{q:"Which cell organelle utilizes light energy during photosynthesis?",options:["Golgi body","Mitochondria","Ribosome","Chloroplasts"],answer:3,exp:"Chloroplasts trap light energy for photosynthesis."},
+
+{q:"Two cylindrical structures found in the cytoplasm are called centriole, which together form the following:",options:["Cilia","Flagella","Centrosome","Ribosome"],answer:2,exp:"A pair of centrioles forms a centrosome."},
+
+{q:"Membrane bound organelles are NOT present in:",options:["Neither eukaryotic nor prokaryotic cells","Only eukaryotic cells","Both eukaryotic and prokaryotic cells","Only prokaryotic cells"],answer:3,exp:"Prokaryotic cells lack membrane-bound organelles."},
+
+{q:"Axon : Single long process :: Dendrite : ____________",options:["Many short, branched parts","Protective connective tissue","Cell body with nucleus","Rapid stimulus transmission"],answer:0,exp:"Dendrites are short and highly branched."},
+
+{q:"Which of the following is responsible for the conversion of stored fats into sugars in plant cell?",options:["Oxysome","Glyoxysome","Golgi body","Ribosome"],answer:1,exp:"Glyoxysomes convert fats into sugars in germinating seeds."},
+
+{q:"In onion peel and human cheek cells, the lightly stained region enclosed by the cell membrane is called:",options:["Vacuole","Nucleus","Cytoplasm","Cell wall"],answer:2,exp:"The cytoplasm is the lightly stained region inside the membrane."},
+
+{q:"Which process ensures half the amount of DNA in reproductive cells as compared to non-reproductive cells?",options:["Cytokinesis","Amitosis","Mitosis","Meiosis"],answer:3,exp:"Meiosis reduces chromosome number by half."},
+
+{q:"Which of the following cell organelles have their own DNA and ribosomes?",options:["Golgi apparatus","Lysosomes","Endoplasmic reticulum","Mitochondria"],answer:3,exp:"Mitochondria possess their own DNA and ribosomes."},
+
+{q:"Which of the following is NOT a function of the cell wall?",options:["Providing shape to the cell","Protecting the cell from mechanical damage","Synthesising proteins for the cell","Helping in cell-to-cell interaction"],answer:2,exp:"Protein synthesis occurs on ribosomes, not in the cell wall."},
+
+{q:"Which cell organelle is responsible for the manufacture of lipids in the cell?",options:["Rough Endoplasmic Reticulum","Golgi Apparatus","Mitochondria","Smooth Endoplasmic Reticulum"],answer:3,exp:"SER is the major site of lipid synthesis."},
+
+{q:"In the presence of oxygen in _________, the pyruvate dissolution occurs.",options:["Endoplasmic Reticulum","Mitochondria","Cytoplasm","Lysosome"],answer:1,exp:"Aerobic breakdown of pyruvate occurs in mitochondria."},
+
+{q:"Muscle cells show higher mitochondrial activity after exercise. The result indicates which of the following?",options:["More energy is required during activity","Cell division stops","Mitochondria cause fatigue","Cells are becoming larger"],answer:0,exp:"Exercise increases cellular energy demand."},
+
+{q:"Which of the following is the fluid content inside the plasma membrane?",options:["Ribosomes","Nuclear membrane","Cytoplasm","Cell wall"],answer:2,exp:"Cytoplasm is the fluid matrix of the cell."},
+
+{q:"Which statement is NOT true about smooth muscles?",options:["They control involuntary movements","They have striations","They are uninucleate","They are spindle-shaped cells"],answer:1,exp:"Smooth muscles are non-striated."},
+
+{q:"What is the network of tiny tubular structures found in the cytoplasm of eukaryotic cells called?",options:["Mitochondria","Lysosome","Golgi apparatus","Endoplasmic reticulum"],answer:3,exp:"The ER forms a network of membranous tubules."},
+
+{q:"Which part of the food-conducting complex tissue in plants is tubular and has perforated walls?",options:["Sieve plate","Phloem parenchyma","Companion cell","Sieve tube"],answer:3,exp:"Sieve tubes conduct food in plants."},
+
+{q:"Which part of a neuron carries the nerve impulse away from the cell body?",options:["Axon","Synapse","Nucleus","Dendrite"],answer:0,exp:"Axons transmit impulses away from the cell body."},
+
+{q:"Which cell organelle serves as a channel for transport of material between various regions of cytoplasm?",options:["Mitochondria","Lysosomes","Endoplasmic reticulum","Chloroplast"],answer:2,exp:"The ER transports materials within the cell."},
+
+{q:"Which of the following processes allows carbon dioxide to move out of a cell?",options:["Endocytosis","Diffusion","Osmosis","Active transport"],answer:1,exp:"Carbon dioxide moves across membranes by diffusion."},
+
+{q:"The process by which the water content of a living plant decreases due to osmosis, resulting in the shrinkage of the plant, is called?",options:["Plasmolysis","Situation","Blastolysis","Hemolysis"],answer:0,exp:"Plasmolysis occurs when plant cells lose water by osmosis."}
+
+],
+set6:[
+{q:"Crocodiles have a ________ heart.",options:["Six-chambered","Four-chambered","One-chambered","Two-chambered"],answer:1,exp:"Crocodiles are reptiles with a four-chambered heart."},
+
+{q:"Cells differ in shape and size according to the work they perform in living organisms. Which of the following correctly compares a cell’s shape with its function?",options:["Amoeba – Irregular in shape, helps in movement and capturing food","Nerve cell – Round in shape, stores food","Muscle cell – Flat and disc-shaped, carries oxygen","Red blood cell – Long and branched, transmits messages"],answer:0,exp:"Amoeba changes shape for movement and food capture."},
+
+{q:"What is the function of the nuclear membrane in a cell?",options:["It regulates the transfer of material between nucleus and cytoplasm","It prevents the entry of gases and water molecules into the nucleus","It provides energy for nuclear division during mitosis","It stores digestive enzymes for chromosomal activities"],answer:0,exp:"The nuclear membrane controls exchange between nucleus and cytoplasm."},
+
+{q:"Most mature plant cells have a _____ that helps to maintain the turgidity of the cell and store important substances including wastes.",options:["Large central vacuole","Chromoplasts","Leucoplasts","Small ribosome"],answer:0,exp:"A large central vacuole maintains cell turgidity and storage."},
+
+{q:"Organisms having only one cell are called ______.",options:["Unicellular","Multicellular","Singular","Unisexual"],answer:0,exp:"Unicellular organisms consist of a single cell."},
+
+{q:"Which of the following cell contents is scattered independently in cytoplasm or connected to the membranes of endoplasmic reticulum?",options:["Mitochondria","Plastid","Ribosome","Lysosome"],answer:2,exp:"Ribosomes may be free in cytoplasm or attached to ER."},
+
+{q:"Where in the body would you expect to find a single layer of extremely thin, flat epithelial cells designed for gas exchange?",options:["Lining of kidney tubules","Inner lining of intestine","Lining of lung alveoli","Skin"],answer:2,exp:"Alveoli contain simple squamous epithelium for gas exchange."},
+
+{q:"The outermost layer of skin is called-",options:["Epidermis","Cutin","Dermis","Keratin"],answer:0,exp:"The epidermis forms the outer protective layer of skin."},
+
+{q:"Why do cells in a multicellular organism exhibit a wide range of shapes and sizes?",options:["Their structure is adapted to perform specific functions","Variation has no functional significance","Cell shape is random","Each cell type contains a different genome"],answer:0,exp:"Cell shape is related to its specialized function."},
+
+{q:"Which type of cell has very small vacuoles?",options:["Plant cell","Bacterial cell","Fungal cell","Animal cell"],answer:3,exp:"Animal cells generally have small temporary vacuoles."},
+
+{q:"Which of the following is the primary function of the cell membrane?",options:["Synthesising proteins","Regulating the passage of substances in and out of the cell","Storing genetic information","Providing structural support"],answer:1,exp:"The plasma membrane controls movement of substances."},
+
+{q:"Purkinje fibres are specialized ________.",options:["Cells in blood","Neurons in the brain","Cells in bone marrow","Muscle fibres in the heart"],answer:3,exp:"Purkinje fibres conduct electrical impulses in the heart."},
+
+{q:"Which of the following is the longest cell in our body?",options:["Fat cell","Ovum","Blood cell","Nerve cell"],answer:3,exp:"Nerve cells can extend over very long distances."},
+
+{q:"Which of the following features is seen in every cell under a microscope?",options:["Lysosome","Mitochondria","Cell membrane","Chromosome"],answer:2,exp:"Every cell is bounded by a cell membrane."},
+
+{q:"Covalent bonds are formed by the sharing of electrons between two atoms so that both can achieve a completely filled _______ shell.",options:["Outermost","Innermost","Centre","Proper"],answer:0,exp:"Atoms share electrons to complete their outermost shell."},
+
+{q:"Which description best defines cytoplasm?",options:["Rigid layer outside the plasma membrane providing support","Genetic material present in the form of chromatin","Fluid content inside the plasma membrane containing organelles","Network of tubes involved in protein transport"],answer:2,exp:"Cytoplasm is the fluid matrix containing organelles."},
+
+{q:"Who discovered the cell?",options:["Theodor Schwann","Matthias Schleiden","Robert Hooke","Rudolf Virchow"],answer:2,exp:"Robert Hooke discovered cells in cork in 1665."},
+
+{q:"Which of the following cell organelles have enough surface area for ATP-generating chemical reactions?",options:["Mitochondria","Lysosomes","Vacuoles","Cell wall"],answer:0,exp:"Cristae in mitochondria provide a large surface area."},
+
+{q:"Which of the following statements about vacuoles is INCORRECT?",options:["Vacuoles help provide turgidity and rigidity","Vacuoles store amino acids, sugars and proteins","Plant cells usually have a large central vacuole","Vacuoles are responsible for protein synthesis"],answer:3,exp:"Protein synthesis occurs on ribosomes, not vacuoles."},
+
+{q:"What distinguishes rough ER (RER) from smooth ER (SER)?",options:["Presence of ribosomes on RER, absence on SER","Presence of chlorophyll on RER","Absence of membranes in RER","Absence of proteins in RER"],answer:0,exp:"RER has ribosomes attached to its surface."},
+
+],
+set7:[
+{q:"In multicellular organisms, why can't simple diffusion alone meet the requirements of all cells?",options:["Because all cells are directly exposed to air","Because diffusion only transports oxygen","Because diffusion requires light","Because body size and complexity increase"],answer:3,exp:"Large multicellular organisms need specialized transport systems."},
+
+{q:"Which of the following is true about nuclear membranes and other cell organelles in cells?",options:["All cytoplasmic organelles are present in prokaryotic cells","The nuclear membrane is present in prokaryotic cells","The nuclear membrane is absent in eukaryotic cells","The nuclear membrane is absent in prokaryotic cells"],answer:3,exp:"Prokaryotes lack a true nucleus and nuclear membrane."},
+
+{q:"Which of the following statements is INCORRECT regarding the shape and function of different cell types?",options:["White blood cells can change shape to move through tissues","Nerve cells are long and branched to carry messages","Red blood cells are biconcave to increase oxygen-carrying capacity","Muscle cells are flat and circular to help them flow in blood"],answer:3,exp:"Muscle cells are elongated and contractile, not flat and circular."},
+
+{q:"Which of the following option is INCORRECT about plasma membrane?",options:["It is outermost covering of the cell","Plasma membrane is made up of lipid and protein","It is selectively permeable","It is rigid in nature"],answer:3,exp:"The plasma membrane is flexible, not rigid."},
+
+{q:"Which structural-functional issue in a plant root would hinder gas exchange but not significantly impact water absorption?",options:["Endodermal cells without suberin","Mutated epiblema cells lacking vacuole","Disrupted stomatal apparatus on aerial organs","Absence of root hairs due to epidermal deformation"],answer:2,exp:"Stomata are involved in gas exchange rather than water absorption by roots."},
+
+{q:"The inner lining of the small intestine has numerous finger like projections that are called:",options:["Enzymes","Tissues","Villi","Cells"],answer:2,exp:"Villi increase the surface area for absorption."},
+
+{q:"The rigid outer covering present outside the plasma membrane in plants is called the:",options:["Cell envelope","Selectively permeable membrane","Cell wall","Nuclear membrane"],answer:2,exp:"The cell wall provides rigidity and protection."},
+
+{q:"Which of the following events happens when lysosomes in a cell burst?",options:["Enzymes digest foreign particles only","Cell division increases","Cell becomes more active","Enzymes digest the cell’s own components"],answer:3,exp:"Lysosomal enzymes can digest the cell itself."},
+
+{q:"Lysosomes are also known as:",options:["Control centers","Energy powerhouses","Suicidal bags of the cell","Protein factories"],answer:2,exp:"Lysosomes contain digestive enzymes and are called suicidal bags."},
+
+{q:"Which cell has changing shapes?",options:["Smooth Muscle","Ovum","Amoeba","Nerve cell"],answer:2,exp:"Amoeba constantly changes shape using pseudopodia."},
+
+{q:"Plastids are easily observed under a microscope because:",options:["They are large and contain pigments","They contain DNA","They are very small","They are colourless"],answer:0,exp:"Pigmented plastids are easily visible under a microscope."},
+
+{q:"Bone is classified as connective tissue primarily because it:",options:["Transports oxygen","Produces nerve impulses","Contains cells dispersed in a mineralised extracellular matrix","Lacks any matrix substance"],answer:2,exp:"Bone cells are embedded in a hard extracellular matrix."},
+
+{q:"________ are a kind of waste disposal system of the cell. They help to keep the cell clean by digesting any foreign materials as well as worn-out cell organelles.",options:["Mitochondria","Plastids","Lysosomes","Golgi"],answer:2,exp:"Lysosomes digest waste materials and damaged organelles."},
+
+{q:"In which part of the neurons, is the first electrical impulse created?",options:["Cell body","Nerve ending","Axon","Dendrite"],answer:3,exp:"Dendrites receive stimuli and initiate nerve impulses."},
+
+{q:"What is the name of the glycoprotein produced in the liver that plays a crucial role in blood clotting?",options:["Fibrinogen","Cadherin","Mucins","Selectin"],answer:0,exp:"Fibrinogen is converted into fibrin during clot formation."},
+
+{q:"Which of these is found only in plants?",options:["Nuclei","Cell Structure","Cell membrane","Cell wall"],answer:3,exp:"The cell wall is a unique feature of plant cells."},
+
+{q:"How does a plant move its leaves in response to touch?",options:["By changing the amount of nucleic acid in them","By changing the amount of protein in them","By changing the amount of lipid in them","By changing the amount of water in them"],answer:3,exp:"Leaf movements occur due to changes in turgor pressure."},
+
+{q:"Which of the following examples best illustrates the real-life role of lysosomes in action?",options:["A nerve cell passing signals","A white blood cell swallowing and breaking down harmful bacteria","A green leaf making food by photosynthesis","A red blood cell delivering oxygen"],answer:1,exp:"Lysosomes digest bacteria engulfed by white blood cells."},
+
+{q:"Which organelle is the powerhouse of the cell?",options:["Golgi apparatus","Plastids","Mitochondria","Endoplasmic reticulum"],answer:2,exp:"Mitochondria generate most of the cell's ATP."},
+
+{q:"Which of the following organelles helps to keep the cell clean by digesting any foreign material as well as worn out cell organelles?",options:["Mitochondria","Endoplasmic reticulum","Golgi apparatus","Lysosome"],answer:3,exp:"Lysosomes act as the cleaning system of the cell."},
+
+{q:"What is the primary function of lysosomes in a cell?",options:["Synthesis of proteins and lipids","Digestion of foreign materials and worn-out organelles","Production of ATP","Regulation of water and mineral balance"],answer:1,exp:"Lysosomes digest cellular waste and foreign substances."},
+
+{q:"Complex tissues are made up of:",options:["Only one cell","One type of cells","More than one type of cells","No cells"],answer:2,exp:"Complex tissues contain multiple cell types working together."},
+
+{q:"Cytoplasm is a jelly-like fluid that is present between:",options:["Nucleus and organelles","Nerves and cells","Fats and tissues","Nucleus and cell membrane"],answer:3,exp:"Cytoplasm fills the space between nucleus and cell membrane."},
+
+{q:"Which organ is responsible for the opening and closing of stomata in plants?",options:["Stigma","Guard cells","Leaves","Stomata"],answer:1,exp:"Guard cells regulate stomatal opening and closing."},
+
+{q:"Which cytoskeletal protein is the major component of neurofilaments that helps maintain the caliber and integrity of large axons?",options:["Keratin protein","Actin protein","Tubulin protein","Neurofilament protein"],answer:3,exp:"Neurofilament proteins provide structural support to axons."},
+
+{q:"Which plastids contain pigments that give plants their yellow, orange or red colours?",options:["Amyloplasts","Leucoplasts","Chloroplasts","Chromoplasts"],answer:3,exp:"Chromoplasts contain carotenoid pigments."},
+
+{q:"Choose a term to complete the analogy. Prokaryotic cell : Small and simple :: Eukaryotic cell : _______",options:["Same size and complexity","Irregular and simple","Smaller and simple","Larger and complex"],answer:3,exp:"Eukaryotic cells are larger and more complex than prokaryotic cells."},   
+
+],
+set8:[{q:"थार?",options:["रेगिस्तान","नदी","पहाड़","झील"],answer:0,exp:"रेगिस्तान"},{q:"लोकतंत्र?",options:["जनता","राजा","सेना","धर्म"],answer:0,exp:"जनता"}],
+set9:[{q:"हिमालय?",options:["पहाड़","नदी","समुद्र","रेगिस्तान"],answer:0,exp:"पहाड़"},{q:"बिहार?",options:["राज्य","देश","नगर","द्वीप"],answer:0,exp:"राज्य"}],
+set10:[{q:"थार?",options:["रेगिस्तान","नदी","पहाड़","झील"],answer:0,exp:"रेगिस्तान"},{q:"लोकतंत्र?",options:["जनता","राजा","सेना","धर्म"],answer:0,exp:"जनता"}],
 },
 
 animalkingdom: {
@@ -514,9 +813,132 @@ set3: [
 {q:"The pacemaker of the human heart is:",options:["AV node","Bundle of His","SA node","Purkinje fibers"],answer:2,exp:"The sinoatrial (SA) node initiates and regulates heartbeat."},
 ],
 set4: [
-{q:"डेल्टा?",options:["सुंदरबन","थार","हिमालय","घाट"],answer:0,exp:"सुंदरबन"},
-{q:"राजस्थान?",options:["रेगिस्तान","पहाड़","नदी","समुद्र"],answer:0,exp:"रेगिस्तान"}
-]
+
+{q:"Digestion of food by means of gastric glands and hydrochloric acid takes place in which part of the body?",options:["Pancreas","Stomach","Small intestine","Large intestine"],answer:1,exp:"Gastric glands and HCl are present in the stomach."},
+
+{q:"Which human organ contains the 'Islets of Langerhans'?",options:["The gall bladder","The pancreas","The brain","The liver"],answer:1,exp:"Islets of Langerhans are endocrine cells present in the pancreas."},
+
+{q:"Where is the part of the middle of the small intestine, which is the main site for absorption of nutrients, located?",options:["Duodenum","Diaphragm","Ileum","Jejunum"],answer:3,exp:"Jejunum is the major site of nutrient absorption."},
+
+{q:"Select the INCORRECT pair related to digestive glands and their enzymes.",options:["Liver — bile juice","Gastric gland — pepsin","Salivary gland — trypsin","Pancreas — pancreatic juice"],answer:2,exp:"Trypsin is produced by the pancreas, not salivary glands."},
+
+{q:"Where is ammonia converted into urea?",options:["Kidney","Pancreas","Liver","Stomach"],answer:2,exp:"The liver converts toxic ammonia into urea."},
+
+{q:"Which of the following is a part of the central nervous system of our body?",options:["Spinal cord","Pancreas","Stomach","Liver"],answer:0,exp:"The spinal cord is a component of the central nervous system."},
+
+{q:"Gastric glands present in the wall of the stomach do NOT release:",options:["Pepsin","Saliva","Hydrochloric acid","Mucus"],answer:1,exp:"Saliva is secreted by salivary glands, not gastric glands."},
+
+{q:"Which of the following organs protects the blood plasma from excessive acid or alkaline conditions by controlling ions?",options:["Abdomen","Kidney","Gall bladder","Intestines"],answer:1,exp:"Kidneys maintain acid-base balance by regulating ions."},
+
+{q:"Which of the following is NOT a part of the alimentary canal of the human body?",options:["Rectum","Oesophagus","Pharynx","Trachea"],answer:3,exp:"The trachea belongs to the respiratory system."},
+
+{q:"Which enzyme initiates carbohydrate digestion in the human mouth?",options:["Salivary amylase present in saliva","Pepsin secreted by gastric glands","Lipase secreted by liver","Trypsin released by pancreas"],answer:0,exp:"Salivary amylase begins starch digestion in the mouth."},
+
+{q:"Which enzyme, secreted by the chief cells of the stomach, is crucial for initiating the digestion of proteins?",options:["Gastric lipase","Trypsinogen","Pepsinogen","Amylase"],answer:2,exp:"Pepsinogen is converted into pepsin for protein digestion."},
+
+{q:"Which of the following best describes the nutrition process in amoeba?",options:["Ingestion → Digestion → Absorption → Egestion","Absorption → Ingestion → Digestion → Egestion","Ingestion → Egestion → Absorption → Digestion","Diffusion → Ingestion → Digestion → Absorption"],answer:0,exp:"Amoeba follows ingestion, digestion, absorption and egestion."},
+
+{q:"Protein digesting enzyme pepsin is secreted in the:",options:["Ileum","Stomach","Mouth","Duodenum"],answer:1,exp:"Pepsin is secreted by gastric glands in the stomach."},
+
+{q:"Which of the following is a process in which absorbed substances from alimentary canal are transported to different organs where they are used to build complex substances?",options:["Digestion","Photosynthesis","Transpiration","Assimilation"],answer:3,exp:"Assimilation is the utilization of absorbed nutrients."},
+
+{q:"Among the major systems of human physiology, to which organ system does blood belong?",options:["Digestive system","Nervous system","Endocrine system","Circulatory system"],answer:3,exp:"Blood is a component of the circulatory system."},
+
+{q:"What is the primary reason that roughage is included in a balanced human diet?",options:["It aids digestion and prevents constipation","It builds muscles","It helps in fat storage","It increases sugar absorption"],answer:0,exp:"Roughage promotes bowel movement and prevents constipation."},
+
+{q:"What is the name of the food pipe?",options:["Bile duct","Diaphragm","Esophagus","Intestine"],answer:2,exp:"The esophagus carries food from mouth to stomach."},
+
+{q:"Goblet cells play a crucial role in maintaining the health of various organs. Where are goblet cells primarily located in the human body?",options:["Liver","Digestive tract","Brain","Kidneys"],answer:1,exp:"Goblet cells secrete mucus in the digestive tract."},
+
+{q:"What protects the inner lining of the stomach from the action of acid under normal conditions?",options:["Villi","Gastric Glands","Mucus","Enzymes"],answer:2,exp:"Mucus protects the stomach wall from HCl."},
+
+{q:"The process of digestion of food in humans begins in _______ and is completed in ________.",options:["Food pipe; small intestine","Stomach; large intestine","Food pipe; large intestine","Mouth; small intestine"],answer:3,exp:"Digestion starts in the mouth and is completed in the small intestine."},
+
+{q:"Out of the four organs listed, three are alike in some manner and one is different. Select the odd one.",options:["Liver","Stomach","Large Intestine","Kidney"],answer:3,exp:"Kidney belongs to the excretory system, not the digestive system."},
+
+{q:"Which of the following is an enzyme that is secreted in the stomach during the process of digestion?",options:["Trypsin","Pepsin","Mucus","Amylase"],answer:1,exp:"Pepsin is the main protein-digesting enzyme of the stomach."},
+
+{q:"Which of the following is about 23 feet long in an average adult human being?",options:["Liver","Large intestine","Appendix","Small intestine"],answer:3,exp:"The small intestine is about 6–7 meters long."},
+
+{q:"What is the function of guard cells of the stomata?",options:["Stool-emission","Hygiene & support","Opening and closing","Digestion"],answer:2,exp:"Guard cells regulate the opening and closing of stomata."},
+
+{q:"In the context of digestion, bolus is best described by which of the following options?",options:["A mixture of food and saliva formed during chewing","A digestive fluid secreted by glands in the intestinal mucosa","A type of enzyme produced by the pancreas","A hormone released by the stomach to stimulate digestion"],answer:0,exp:"Bolus is the chewed mass of food mixed with saliva."},
+
+{q:"Which organ in the human body regulates the sugar content in the blood?",options:["Stomach","Liver","Gall bladder","Pancreas"],answer:3,exp:"The pancreas regulates blood sugar through insulin and glucagon."},
+
+{q:"Which enzyme is responsible for the breakdown of complex sugar molecules into simple glucose in human beings?",options:["Lipase","Amylase","Pepsin","Bile Juice"],answer:1,exp:"Amylase breaks down starch into simpler sugars."},
+
+{q:"Where is insulin produced in the human body?",options:["Bile duct","Liver","Spleen","Pancreas"],answer:3,exp:"Insulin is produced by beta cells of the pancreas."},
+
+{q:"Which of the following organs of the digestive system has the shape similar to the English alphabet 'J'?",options:["Liver","Mouth","Stomach","Intestine"],answer:2,exp:"The stomach is a J-shaped organ."},
+
+{q:"Which of the following is NOT a part of the digestive system?",options:["Stomach","Heart","Liver","Mouth"],answer:1,exp:"The heart belongs to the circulatory system."},
+
+{q:"Select the INCORRECT pair related to digestive glands and their enzymes.",options:["Liver — bile juice","Gastric gland — pepsin","Pancreas — pancreatic juice","Salivary gland — trypsin"],answer:3,exp:"Trypsin is secreted by the pancreas, not salivary glands."},
+
+{q:"Enzyme ptyalin is seen in -",options:["Gastric juice","Pancreatic juice","Intestinal juice","Saliva"],answer:3,exp:"Ptyalin is another name for salivary amylase."},
+
+{q:"Which of the following chemical secretions helps our body in control and coordination?",options:["Sebum","Hormones","Gastric mucosa","Saliva"],answer:1,exp:"Hormones regulate and coordinate body functions."},
+
+{q:"Which of the following is the correct order of movement of food in the digestive tract?",options:["Oesophagus - Mouth - Stomach","Oesophagus - Stomach - Mouth","Mouth - Oesophagus - Stomach","Mouth - Stomach - Oesophagus"],answer:2,exp:"Food moves from mouth to oesophagus and then to stomach."},
+
+{q:"Gastric glands produce the enzyme ________ during digestion, which digests proteins.",options:["Lactase","Helicase","Trypsin","Pepsin"],answer:3,exp:"Pepsin is the protein-digesting enzyme of the stomach."},
+],
+set5:[
+{q:"Which of the following systems is NOT found in nematodes?",options:["Digestive system","Excretory system","Reproductive system","Respiratory system"],answer:3,exp:"Nematodes lack a specialized respiratory system."},
+
+{q:"When we eat something we like, our mouth waters by a fluid called saliva. In this situation, which enzymes break starch into simple sugar?",options:["Amylase enzymes","Pancreatic enzymes","Pepsin enzymes","Trypsin enzymes"],answer:0,exp:"Salivary amylase breaks down starch into simpler sugars."},
+
+{q:"What does Vitamin K deficiency lead to?",options:["Problem in digestion","Problem in calcium metabolism","Problem in blood coagulation","All of the options"],answer:2,exp:"Vitamin K is essential for blood clotting."},
+
+{q:"Which organ in the human body produces bile juice?",options:["Small intestine","Pancreas","Liver","Stomach"],answer:2,exp:"The liver produces bile juice for fat digestion."},
+
+{q:"Acid secretion is a characteristic of -",options:["Buccal cavity","Large intestine","Stomach","Small intestine"],answer:2,exp:"Hydrochloric acid is secreted by the stomach."},
+
+{q:"What is the main function of bile in human digestion?",options:["To convert glucose into glycogen in the liver","To digest proteins completely in the stomach","To make food alkaline and break down large fat globules","To mix food with saliva for easy swallowing"],answer:2,exp:"Bile emulsifies fats and neutralizes acidic chyme."},
+
+{q:"What is the role of peristaltic movements in the human digestive system?",options:["To absorb nutrients into the blood","To push food forward along the digestive tract","To digest proteins in the stomach","To produce digestive enzymes"],answer:1,exp:"Peristalsis moves food through the alimentary canal."},
+
+{q:"The enzyme present in gastric juice is ________.",options:["Trypsin","Pepsin","Amylase","Ptyalin"],answer:1,exp:"Pepsin is the protein-digesting enzyme of gastric juice."},
+
+{q:"Which organ of the human body pumps blood?",options:["Pancreas","Heart","Stomach","Liver"],answer:1,exp:"The heart pumps blood throughout the body."},
+
+{q:"Which of the following glands secretes trypsin enzyme?",options:["Gastric gland","Salivary gland","Pancreas","Liver"],answer:2,exp:"Trypsin is secreted by the pancreas."},
+
+{q:"Which one of the following is the correct sequence of steps in Digestive System?",options:["Absorption, Egestion, Digestion, Ingestion","Egestion, Ingestion , Absorption , Digestion","Ingestion, Digestion, Absorption, Egestion","Ingestion, Absorption, Egestion, Digestion"],answer:2,exp:"Digestion follows ingestion, digestion, absorption and egestion."},
+
+{q:"Which of the following enzymes is present in saliva?",options:["Salivary Amylase","Salivary Lipase","No enzyme","Salivary Protease"],answer:0,exp:"Salivary amylase starts carbohydrate digestion in the mouth."},
+
+{q:"Which primary feature allows mitochondria to be called the 'powerhouse of the cell'?",options:["They contain digestive enzymes","They control protein synthesis","They store calcium ions","They synthesise energy as ATP"],answer:3,exp:"Mitochondria generate ATP, the energy currency of cells."},
+
+{q:"Which enzyme present in saliva helps break down starch?",options:["Amylase","Pepsin","Lipase","Trypsin"],answer:0,exp:"Amylase converts starch into simpler sugars."},
+
+{q:"Which of the following is the longest part of the alimentary canal?",options:["Stomach","Food pipe","Large intestine","Small intestine"],answer:3,exp:"The small intestine is the longest part of the digestive tract."},
+
+{q:"In the digestive system, which of the following releases hydrochloric acid, a protein digesting enzyme called pepsin, and mucus?",options:["Pancreas","Gall bladder","Gastric glands","Salivary glands"],answer:2,exp:"Gastric glands secrete HCl, pepsin and mucus."},
+
+{q:"Why is intracellular digestion suitable for unicellular organisms?",options:["They lack digestive enzymes.","They lack specialized digestive organs.","They depend on external digestion.","They have large body cavities."],answer:1,exp:"Unicellular organisms do not possess specialized digestive organs."},
+
+{q:"The tongue helps in digestion mainly by _________.",options:["mixing food with saliva","crushing food into smaller pieces","absorbing nutrients","secreting digestive enzymes"],answer:0,exp:"The tongue mixes food with saliva and helps swallowing."},
+
+{q:"Pepsin is an enzyme secreted in the-",options:["Liver","Mouth","Kidney","Stomach"],answer:3,exp:"Pepsin is secreted by gastric glands in the stomach."},
+
+{q:"Bile is secreted by the _______.",options:["pancreas","gall bladder","stomach","liver"],answer:3,exp:"The liver secretes bile, which is stored in the gall bladder."},
+
+{q:"In which of the following parts of the human body do the epithelial cells have cilia?",options:["Buccal cavity","Respiratory tract","Stomach wall","Food pipe"],answer:1,exp:"Ciliated epithelium lines the respiratory tract."},
+
+{q:"Which are the two main organs in the human body where the magnetic field produced is significant?",options:["Stomach and intestines","Liver and gallbladder","Lungs and liver","Heart and brain"],answer:3,exp:"The heart and brain generate measurable bioelectric magnetic fields."},
+
+{q:"Blood brings carbon dioxide from the rest of the body for release into the:",options:["intestines","oesophaugus","stomach","alveoli"],answer:3,exp:"Carbon dioxide is released from blood into the alveoli."},
+
+{q:"Which major discovery helps to design drugs in the treatment of hyperacidity?",options:["The role of enzymes in digestion","The use of antibiotics to neutralize stomach acid","Hydrochloric acid present in the stomach","Histamine stimulates acid secretion in the stomach"],answer:3,exp:"Knowledge of histamine-mediated acid secretion led to anti-ulcer drugs."},
+
+],
+set6:[{q:"थार?",options:["रेगिस्तान","नदी","पहाड़","झील"],answer:0,exp:"रेगिस्तान"},{q:"लोकतंत्र?",options:["जनता","राजा","सेना","धर्म"],answer:0,exp:"जनता"}],
+set7:[{q:"हिमालय?",options:["पहाड़","नदी","समुद्र","रेगिस्तान"],answer:0,exp:"पहाड़"},{q:"बिहार?",options:["राज्य","देश","नगर","द्वीप"],answer:0,exp:"राज्य"}],
+set8:[{q:"थार?",options:["रेगिस्तान","नदी","पहाड़","झील"],answer:0,exp:"रेगिस्तान"},{q:"लोकतंत्र?",options:["जनता","राजा","सेना","धर्म"],answer:0,exp:"जनता"}],
+set9:[{q:"हिमालय?",options:["पहाड़","नदी","समुद्र","रेगिस्तान"],answer:0,exp:"पहाड़"},{q:"बिहार?",options:["राज्य","देश","नगर","द्वीप"],answer:0,exp:"राज्य"}],
+set10:[{q:"थार?",options:["रेगिस्तान","नदी","पहाड़","झील"],answer:0,exp:"रेगिस्तान"},{q:"लोकतंत्र?",options:["जनता","राजा","सेना","धर्म"],answer:0,exp:"जनता"}],
 },
 
 april: {
