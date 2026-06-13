@@ -380,7 +380,7 @@ body{
 /* SET SCROLL */
 .set-bar{
     position:fixed !important;
-    top:110px !important;
+    top:170px !important;
     left:0;
     right:0;
 
@@ -411,7 +411,7 @@ body{
 .main{
     flex:none;
     width:100%;
-    padding:140px 10px 10px;
+    padding:200px 10px 10px;
 }
 
 /* PALETTE */
