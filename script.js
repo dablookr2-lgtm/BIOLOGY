@@ -1087,17 +1087,197 @@ set7:[
 {q:"Select the option that is true regarding the following two statements labelled Assertion (A) and Reason (R). Assertion (A): Vegetative propagation helps grow plants that do not produce seeds. Reason (R): It uses flowers to grow new plants.",options:["A is true, but R is false","Both A and R are true, but R is not the correct explanation of A","A is false, but R is true","Both A and R are true, and R is the correct explanation of A"],answer:0,exp:"Vegetative propagation is true, but it does not use flowers for reproduction."},
 
 ],
-set8:[{q:"थार?",options:["रेगिस्तान","नदी","पहाड़","झील"],answer:0,exp:"रेगिस्तान"},{q:"लोकतंत्र?",options:["जनता","राजा","सेना","धर्म"],answer:0,exp:"जनता"}],
+set8:[
+{q:"Recombinant proteins, often seen in the news, are _____.",options:["proteins synthesised in animal models","proteins synthesised by transgene in host cell by rDNA technology","natural proteins found in bacteria","proteins synthesised in mutated cell lines"],answer:1,exp:"Recombinant proteins are produced in host cells using recombinant DNA technology."},
+
+{q:"Two children of the same parents resemble each other but are not exactly alike because ___________.",options:["they show different combinations of the genetic variation existing in their parents","their parents show very little genetic variation","each of them inherits all genetic characters from one parent only","each of them shows variation in their DNA copying mechanisms"],answer:0,exp:"Each child receives a unique combination of parental genes."},
+
+{q:"Which of the following pairs of human male chromosome is mismatched in size?",options:["Thirteenth pair autosomes","First pair autosomes","Twentieth pair autosomes","Sex chromosomes"],answer:3,exp:"Male sex chromosomes X and Y differ significantly in size."},
+
+],
 set9:[{q:"हिमालय?",options:["पहाड़","नदी","समुद्र","रेगिस्तान"],answer:0,exp:"पहाड़"},{q:"बिहार?",options:["राज्य","देश","नगर","द्वीप"],answer:0,exp:"राज्य"}],
 set10:[{q:"थार?",options:["रेगिस्तान","नदी","पहाड़","झील"],answer:0,exp:"रेगिस्तान"},{q:"लोकतंत्र?",options:["जनता","राजा","सेना","धर्म"],answer:0,exp:"जनता"}],
 },
 
-april: {
+heredity: {
 set1: [
-{q:"लोकसभा?",options:["निचला सदन","उच्च सदन","न्यायालय","राज्य"],answer:0,exp:"लोकसभा"},
-{q:"प्रधानमंत्री?",options:["सरकार प्रमुख","राज्यपाल","राष्ट्रपति","जज"],answer:0,exp:"सरकार प्रमुख"}
+{q:"'Theory of Natural selection' was proposed by -",options:["Charles Huxley","Charles Darwin","Erasmus Darwin","Morgan"],answer:1,exp:"Charles Darwin proposed the theory of natural selection."},
+
+{q:"Which of the following statements about sexual reproduction is INCORRECT?",options:["It generates variations for species survival.","It helps organisms adapt to changing environments.","It produces identical clones.","It combines DNA from two parents."],answer:2,exp:"Sexual reproduction produces variation, not identical clones."},
+
+{q:"Read the following statements carefully and select the correct option. Assertion (A): Keeping oily food in airtight containers prevents rancidity. Reason (R): Airtight containers slow down the oxidation of fats and oils.",options:["Both A and R are true, and R is the correct explanation of A.","A is false, but R is true.","A is true, but R is false.","Both A and R are true, and R is not the correct explanation of A."],answer:0,exp:"Airtight containers reduce oxidation and prevent rancidity."},
+
+{q:"Name the scientist who defined elements as substances that CANNOT be broken down into simpler form by chemical reactions.",options:["Charles Darwin","Robert boyle","Antoine Laurent Lavoisier","Robert Hookie"],answer:2,exp:"Lavoisier defined elements as basic substances."},
+
+{q:"Which of the following characteristics of pea was a dominant trait, used by Mendel in his experiments?",options:["Wrinkled Seeds","Tall Plants","Dwarf Plants","Green Seeds"],answer:1,exp:"Tallness is dominant over dwarfness in pea plants."},
+
+{q:"What is the number of chromosome in the dog?",options:["23 pair","12 pairs","32 pair","39 pair"],answer:3,exp:"Dogs have 39 pairs of chromosomes."},
+
+{q:"In a genetic lab, a fertilised human embryo is found to have XX chromosomes. Which of the following is true?",options:["The embryo will become a human female.","The embryo has an extra Y chromosome.","The embryo will become a human male.","The embryo lacks sex chromosomes."],answer:0,exp:"XX chromosome combination results in a female."},
+
+{q:"Mendel had selected garden pea for certain favourable reasons. Which of the following is NOT a reason for his choice required for his experiments?",options:["They can be self-pollinated and cross-pollinated.","They produce many offsprings.","They have easily observable traits.","They have a long generation time."],answer:3,exp:"Pea plants actually have a short generation time."},
+
+{q:"Which of the following factors is primarily responsible for survival of species?",options:["Variations","Temperature","Niche","Mutation"],answer:0,exp:"Variations help species adapt and survive."},
+
+{q:"Which of the following crosses will produce all heterozygous offspring in the F1 generation?",options:["TT × TT","Tt × Tt","TT × tt","tt × tt"],answer:2,exp:"TT × tt produces all Tt offspring."},
+
+{q:"Which of the following pairs are correctly matched as structural isomers? A) Pentane − 2-methylbutane B) Butane − 2-methylpropane C) Benzene − cyclohexene",options:["A and B only","B and C only","A and C only","A, B and C"],answer:0,exp:"Pentane/2-methylbutane and Butane/2-methylpropane are structural isomers."},
+
+{q:"The most recently discovered link in human evolution is the discovery of fossils of:",options:["Lucy","Homo naledi","Homo sapiens","Austiopithelines"],answer:1,exp:"Homo naledi is a recently discovered human ancestor."},
+
+{q:"What is the main purpose of creating DNA copies during reproduction?",options:["To change the structure of cells","To pass genetic information to offspring","To make organisms immune to diseases","To produce identical twins"],answer:1,exp:"DNA copies transfer hereditary information to offspring."},
+
+{q:"What was Mendel’s contribution to genetics?",options:["Inheritance of Acquired Traits","Laws of Inheritance","Discovery of DNA","Theory of Evolution"],answer:1,exp:"Mendel established the laws of inheritance."},
+
+{q:"Which scientist formulated 'the theory of Evolution'?",options:["Aristotle","Alexander Fleming","Charles Darwin","Issac Newton"],answer:2,exp:"Charles Darwin formulated the theory of evolution."},
+
+{q:"Why do recessive traits like 't' for dwarfness in pea plants only show up when both alleles are recessive?",options:["Dominant alleles mask recessive alleles.","Recessive alleles are stronger.","Recessive alleles cannot be passed on.","Recessive alleles are never expressed."],answer:0,exp:"A dominant allele masks the expression of a recessive allele."},
+
+{q:"In a large population of sweet pea plants growing in stable conditions, which of the following best explains why genetic variation through sexual reproduction is still crucial for their long-term survival?",options:["Genetic variation ensures uniform flower color and height across future generations.","Hidden (recessive) alleles in sweet peas may offer resistance against future environmental stress.","Sweet pea plants reproduce faster sexually than asexually, ensuring more biomass production.","Variation helps sweet pea plants avoid cross-pollination, maintaining purity of the parental line."],answer:1,exp:"Hidden genetic variations can help plants survive future environmental changes."},
+
+{q:"The process of fission in an amoeba results in the formation of ____________.",options:["two similar sized, genetically identical daughter cells","a small daughter cell and a large mother cell that are genetically different","four genetically different daughter cells","a large number of small, genetically identical daughter cells"],answer:0,exp:"Binary fission in Amoeba produces two identical daughter cells."},
+
+{q:"K-shell is the ___________ energy level.",options:["Fourth","First","Third","Second"],answer:1,exp:"K-shell is the first and innermost electron shell."},
+
+{q:"The system of scientific naming or nomenclature of organism which we use today was introduced by which of the following scientists?",options:["George Washington Carver","Carolus Linnaeus","Marie Curie","Charles Darwin"],answer:1,exp:"Carolus Linnaeus introduced binomial nomenclature."},
+
+{q:"A plant breeder crosses two pure-breeding pea plants—one producing round seeds and the other producing wrinkled seeds. Based on Mendel’s findings, what phenotype would all the seeds in the F₁ generation display?",options:["Half round, half wrinkled","A mix of round and wrinkled in varying proportions","Round seeds","Wrinkled seeds"],answer:2,exp:"Round seed trait is dominant over wrinkled seed trait."},
+
+{q:"According to the laws of refraction, which of the following is/are true? (A) The incident ray, the refracted ray and the normal to the interface of two transparent media do not lie in the same plane. (B) For a given colour of light and a given pair of media, the ratio of the sine of angle of incidence to sine of angle of refraction is a constant.",options:["'A' is false and 'B' is true.","Both 'A' and 'B' are false.","'A' is true and 'B' is false.","Both 'A' and 'B' are true."],answer:0,exp:"Only statement B is correct according to Snell's law."},
+
+{q:"Select the INCORRECT statement regarding variation in plants.",options:["They are produced during sexual reproduction.","Individuals within a population are unique due to the variations.","They are produced due to inaccuracy in the copying of DNA.","Asexual reproduction is a regular source of variations in a population."],answer:3,exp:"Asexual reproduction generally produces genetically identical offspring."},
+
+{q:"Which of the following explains the absence of recessive traits in the F₁ generation and their reappearance in the F₂ generation in Mendal’s experiment?",options:["Recessive traits become dominant in F₂ generation.","Recessive alleles are hidden in F₁ but reappear in F₂ due to segregation.","Recessive traits skip generations randomly","Recessive traits are completely destroyed in the F₁ generation"],answer:1,exp:"Segregation of alleles allows recessive traits to reappear in F₂."},
+
+{q:"The process by which traits are passed from parents to offspring is known as _____________.",options:["mutation","heredity","hybridisation","linkage"],answer:1,exp:"Heredity is the transmission of traits from parents to offspring."},
+
+{q:"What is the main purpose of hybridisation in crop improvement programmes?",options:["To produce genetically identical plants through cloning","To combine desirable traits by crossing genetically dissimilar plants","To grow crops without using fertilizers or irrigation","To increase the natural mutation rate in crop plants"],answer:1,exp:"Hybridisation combines useful traits from different parent plants."},
+
+{q:"Which tissue is responsible for the size of the roots of plants?",options:["Epical Meristem","Interactive Maristem","Backlinks","Parenting"],answer:0,exp:"Apical meristem is responsible for root growth in length."},
+
+{q:"The system of scientific naming Organism was introduced by:",options:["Alexis Carrel","Carolus Linnaeus","Angel Cabrera","George Caley"],answer:1,exp:"Carolus Linnaeus introduced the modern naming system."},
+
+{q:"Which of the following was the scientist who blended his knowledge of science and mathematics to arrive at the laws of inheritance?",options:["E Rutherford","Camillo Golgi","Gregor Johann Mendel","John Dalton"],answer:2,exp:"Gregor Mendel used mathematics to establish inheritance laws."},
+
+{q:"Which of the following is true for mitosis but not for meiosis?",options:["Promotes genetic variation","Occurs in reproductive cells","Produces identical daughter cells","Results in haploid cells"],answer:2,exp:"Mitosis produces genetically identical daughter cells."},
+
+{q:"Which scientist(s) established the laws of Inheritance?",options:["Watson and Crick","Gregor Johann Mendel","Charles Darwin","Thomas Hunt Morgan"],answer:1,exp:"Gregor Mendel established the laws of inheritance."},
+
+{q:"In some reptiles, the sex of the offspring is determined by:",options:["Presence or absence of a Y chromosome","Temperature at which eggs are incubated","Hormonal levels in the mother","Sex chromosomes"],answer:1,exp:"In many reptiles, incubation temperature determines sex."},
+
+{q:"Select the correct option regarding the following two statements labelled Assertion (A) and Reason (R). Assertion (A): Calcium oxide reacts vigorously with water to form calcium hydroxide. Reason (R): In a combination reaction, two or more substances combine to form one product.",options:["A is true, but R is false.","Both A and R are true, and R is the correct explanation of A.","Both A and R are true, and R is not the correct explanation of A.","A is false, but R is true."],answer:1,exp:"CaO and water combine to form a single product, Ca(OH)₂."},
+
+{q:"In plants, how does sexual reproduction leads to better survival in offspring?",options:["Offspring are exact clones","Offspring do not show any variation","Offspring are born faster","Offspring show new genetic recombination"],answer:3,exp:"Genetic recombination creates variation that aids survival."},
+
+{q:"Why is variation important in sexually reproducing plants?",options:["It decreases the genetic diversity within the population.","It limits the adaptability of the species to changing environments.","It increases the chances of survival by enabling adaptation to environmental changes.","It ensures all offspring are identical to the parent, maintaining uniformity."],answer:2,exp:"Variation improves adaptation and survival in changing environments."},
+
+{q:"'The Origin of Species' was written by:",options:["Plato","Aristotle","Confucius","Charles Darwin"],answer:3,exp:"Charles Darwin authored 'The Origin of Species'."},
+
+{q:"A child is born with one X chromosome from the mother and one Y chromosome from the father. Which statement accurately describes the consequence of this chromosomal combination?",options:["The child will develop as a male due to the presence of the Y chromosome.","The child will develop as a female because X chromosome is always dominant over Y chromosome.","The child will not develop male characteristics without two Y chromosomes.","The child’s sex is determined by the mother, as she provides the X chromosome."],answer:0,exp:"The presence of a Y chromosome leads to male development."},
+
+{q:"Who is considered as 'The father of Biology' ?",options:["Leeuwenhoek","Carolus Linnaeus","Lankester","Aristotle"],answer:3,exp:"Aristotle is widely known as the Father of Biology."},
+
+{q:"Which of the following includes genetic engineering?",options:["Gene revolution","Bloodless revolution","Globalisation","Green revolution"],answer:0,exp:"Gene revolution is based on genetic engineering techniques."},
+
+{q:"Identify one example of change taking place at puberty that can signify sexual maturation.",options:["Mood swings","Behaving differently","New hair-growth patterns","Increase in height"],answer:2,exp:"Growth of body hair is a sign of sexual maturation."},
+
+{q:"Who discovered Penicillin?",options:["Charles Darwin","Alexander Fleming","Gregor Mendel","Louis Pasteur"],answer:1,exp:"Alexander Fleming discovered penicillin in 1928."},
 ],
 set2: [
+
+{q:"Why is variation important in a population of organisms?",options:["It helps some individuals survive if environmental conditions change.","It prevents reproduction.","It causes extinction of all organisms.","It makes organisms identical."],answer:0,exp:"Variation helps organisms adapt and survive environmental changes."},
+
+{q:"How many pairs of sex chromosomes are present in humans?",options:["Forty six pairs","One pair","Twenty two pairs","Two pairs"],answer:1,exp:"Humans have one pair of sex chromosomes."},
+
+{q:"In sexually reproducing organisms, how many versions of each trait does a child inherit?",options:["One version from father only","One version from each parent","Two versions from the mother only","One version in total"],answer:1,exp:"A child inherits one allele from each parent."},
+
+{q:"Which of the following is the first stage of karyokinesis of mitosis that follows the S and G2 phases of interphase?",options:["Anaphase","Telophase","Metaphase","Prophase"],answer:3,exp:"Prophase is the first stage of mitosis."},
+
+{q:"Which of the following is a result of the genetic variation introduced by sexual reproduction?",options:["Production of genetically identical offspring","Evolution","Decreased chances of survival","Formation of identical twins"],answer:1,exp:"Genetic variation provides the basis for evolution."},
+
+{q:"Who is the Father of Genetics?",options:["Punnet","Mendel","Castle","Morgan"],answer:1,exp:"Gregor Mendel is known as the Father of Genetics."},
+
+{q:"The first fundamental factor for evolution is:",options:["competition among individuals","genetic variation","healthy offsprings","cell division for growth"],answer:1,exp:"Genetic variation is essential for evolution to occur."},
+
+{q:"Which of the following hybridisation crossing is NOT used for the improvement in crop varieties?",options:["Intergeneric","Intraspecific","Interspecific","Intervarietal"],answer:1,exp:"Intraspecific crossing is not considered a hybridisation method for crop improvement."},
+
+{q:"Why is vegetative propagation useful for agriculture purposes?",options:["It increases genetic variation","It requires seeds for every generation","It produces identical plants rapidly","It prevents diseases naturally"],answer:2,exp:"Vegetative propagation rapidly produces identical plants."},
+
+{q:"In the context of plant and animal kingdoms, what does chemotaxonomy primarily focus on?",options:["The classification of organisms based on their ecological roles.","The classification of organisms based on their chemical composition.","The examination of genetic sequences in mitochondrial DNA.","The classification of organisms based on their morphological characteristics."],answer:1,exp:"Chemotaxonomy classifies organisms using chemical characteristics."},
+
+{q:"Which pair of scientists first proposed the double-helix model for the structure of DNA?",options:["Darwin and Wallace","Mendel and Avery","Watson and Crick","Franklin and Chargaff"],answer:2,exp:"Watson and Crick proposed the DNA double-helix model."},
+
+{q:"Select the option that is true regarding the following two statements labelled Assertion (A) and Reason (R). Assertion (A): Insulin helps lower blood glucose levels. Reason (R): Insulin converts glucose into glycogen for storage in the liver.",options:["Both A and R are true, and R is the correct explanation of A.","A is false, but R is true.","Both A and R are true, but R is not the correct explanation of A.","A is true, but R is false."],answer:0,exp:"Insulin lowers blood glucose by promoting glycogen formation."},
+
+{q:"Who gave the term ‘homo sapiens’?",options:["G. J. Mendal","C. Linnaeus","Miller","Darwin"],answer:1,exp:"Carolus Linnaeus introduced the term Homo sapiens."},
+
+{q:"What determines the sex of a child in humans?",options:["Genetic constitution","Environmental cues","The temperature at which fertilised eggs are placed","The fate of the embryo"],answer:0,exp:"Sex is determined by the genetic constitution of sex chromosomes."},
+
+{q:"The ten percent law of energy transfer was given by:",options:["Charles Darwin","Thomas Morgan","Raymond Lindeman","Watson and Crick"],answer:2,exp:"Raymond Lindeman proposed the ten percent law."},
+
+{q:"____________ is a kind of quantitative and qualitative process of change which cannot be measured.",options:["Growth","Evolution","Development","Progress"],answer:1,exp:"Evolution is a long-term biological change that cannot be measured directly."},
+
+{q:"The laws of inheritance form the foundation of classical genetics. Who among the following first described the laws of inheritance?",options:["Gregor Mendel","Charles Darwin","Dmitri Mendeleev","Alfred Russel Wallace"],answer:0,exp:"Gregor Mendel first described the laws of inheritance."},
+
+{q:"Which of the following actions is responsible for the survival of species over time?",options:["Conservation","Variation","Reproduction","Struggle"],answer:1,exp:"Variation helps species adapt and survive changing conditions."},
+
+{q:"What happens when pea plants showing two different characteristics (the tall/short trait and the round seed/wrinkled seed trait), rather than just one are bred with each other?",options:["The tall/short trait and the round seed/wrinkled seed trait are independently inherited.","They are all tall and have round seeds in F2 generation.","Some F1 progeny are tall plants with round seeds, and some are short plants with wrinkled seeds.","The tall/short trait and the round seed/wrinkled seed trait are dependently inherited."],answer:0,exp:"Mendel's law of independent assortment states that traits are inherited independently."},
+
+{q:"Read the given assertion (A) and reason (R) and select the most appropriate option. (A): Oral contraceptive pills are a permanent method of contraception. (R): They change hormone levels and prevent ovulation.",options:["Both A and R are true, but R is not the correct explanation of A","A is false, but R is true","Both A and R are false","Both A and R are true, and R is the correct explanation of A"],answer:1,exp:"Oral pills are temporary contraceptives but they do prevent ovulation."},
+
+{q:"Which law did Mendel derive from his monohybrid cross?",options:["Law of Constant Proportion","Law of Evolution","Law of Segregation","Law of Independent Assortment"],answer:2,exp:"Monohybrid crosses led Mendel to formulate the Law of Segregation."},
+
+{q:"In the context of genetics, what is the primary purpose of pedigree analysis?",options:["To measure the physical traits of individuals in a population","To analyse the nutritional requirements of different organisms","To track the inheritance of specific traits across generations within a family","To study the ecological interactions between species in an environment"],answer:2,exp:"Pedigree analysis traces inheritance patterns in families."},
+
+{q:"Read the following statements carefully and select the correct option. Assertion (A): In the reaction of copper with oxygen, oxygen acts as the reducing agent. Reason (R): Oxygen adds to copper forming copper oxide.",options:["Both A and R are true, and R is the correct explanation of A.","A is true, but R is false.","A is false, but R is true.","Both A and R are true, and R is not the correct explanation of A."],answer:2,exp:"Oxygen acts as an oxidizing agent, though it does combine with copper."},
+
+{q:"What is the ability to develop a whole plant by a cell or cortex?",options:["Totipotency","Mutation Reproduction","Microoprotection","Physical hybridization"],answer:0,exp:"Totipotency is the ability of a cell to develop into a complete plant."},
+
+{q:"Who gave the term 'homo sapiens'?",options:["Miller","Darwin","G. J. Mendal","C. Linnaeus"],answer:3,exp:"Carolus Linnaeus coined the term Homo sapiens."},
+
+{q:"What advantage does asexual reproduction provide in a stable environment?",options:["Genetic variation","Sexual diversity","Rapid and identical reproduction","Adaptation to new environment"],answer:2,exp:"Asexual reproduction quickly produces identical offspring."},
+
+{q:"Read the given Assertion (A) and Reason (R) and select the most appropriate option. (A): A woman has normal ovulation and fertilisation, but the zygote is expelled without attaching to the uterine wall because implantation has failed. (R): Implantation is the process by which the blastocyst embeds in the endometrium to establish pregnancy.",options:["A is true, but R is false","Both A and R are true, but R is not the correct explanation of A","A is false, but R is true","Both A and R are true, and R is the correct explanation of A"],answer:3,exp:"Pregnancy cannot continue without successful implantation."},
+
+{q:"In Mendel’s experiment, what did he observe in the F1 generation when he crossed a tall (TT) and a short pea (tt) plant?",options:["All were short","All were medium height","All were tall","Half were tall, half was short"],answer:2,exp:"All F1 plants were tall because tallness is dominant."},
+
+{q:"Which of the following is a key feature of offsprings produced through vegetative propagation?",options:["They are genetically diverse from the parent plant.","They require fertilisation to develop.","They are genetically identical to the parent plant.","They always grow slower than seed-grown plants."],answer:2,exp:"Vegetative propagation produces genetically identical offspring."},
+
+{q:"What is the advantage of fragmentation as a mode of reproduction in plants?",options:["Brings about rapid multiplication","Increases genetic diversity","Promotes bud formation","Forms spores for dispersal"],answer:0,exp:"Fragmentation allows rapid multiplication of organisms."},
+
+{q:"Mendel studied traits such as flower colour and seed shape in pea plants. These traits are called as:",options:["genetic codes","dominant characteristics","progeny units","visible characters"],answer:3,exp:"These traits are observable or visible characters."},
+
+{q:"Name the famous biologist with whom the Galapagos Islands is associated.",options:["Carl Linnaeus","Ernst Haeckel","Johann Gregor Mendel","Charles Darwin"],answer:3,exp:"Darwin's observations on the Galapagos Islands helped develop his theory of evolution."},
+
+{q:"________ is a quantitative process of change of scale and size, which can be measured and aided by ethics and norms.",options:["Evolution","Development","Progress","Growth"],answer:1,exp:"Development involves measurable qualitative and quantitative changes."},
+
+{q:"The number of chromosomes become half in a daughter cell by the process of:",options:["binary fission","meiosis","mitosis","amitosis"],answer:1,exp:"Meiosis reduces the chromosome number by half."},
+
+{q:"Which of the following is NOT a typical characteristic of plants produced through vegetative propagation?",options:["They are genetically identical to the parent.","They flower and fruit earlier than seed-grown plants.","They do not require pollination.","They show variation in characteristics among offspring."],answer:3,exp:"Vegetative propagation usually produces genetically identical offspring."},
+
+{q:"Which law of Mendel explains the separation of alleles during gamete formation?",options:["Law of Dominance","Law of Assortment","Law of Segregation","Law of Variation"],answer:2,exp:"The Law of Segregation states that allele pairs separate during gamete formation."},
+
+{q:"In human beings, how is the sex of a child determined?",options:["By the inheritance of X or Y chromosome from the father","By the inheritance of an X chromosome from the mother","By the environmental conditions prevailing during development of the foetus","By the difference in number of chromosomes inherited by the child"],answer:0,exp:"The father's X or Y chromosome determines the sex of the child."},
+
+{q:"The basic unit of classification of living organisms is called :",options:["order","genus","family","species"],answer:3,exp:"Species is the fundamental unit of biological classification."},
+
+{q:"Select the correct option regarding the following two statements labelled Assertion (A) and Reason (R). Assertion (A): Excess accumulation of biodegradable waste can also create environmental problems. Reason (R): Slow decomposition may lead to foul smell and spread of disease.",options:["Both A and R are true, and R is the correct explanation of A","A is true, but R is false","Both A and R are true, but R is not the correct explanation of A","A is false, but R is true"],answer:0,exp:"Slow decomposition of waste can cause odor and disease spread."},
+
+{q:"Every child inherits an X chromosome from their mother. Which reasoning best explains this biological certainty?",options:["Mothers pass both X and Y chromosomes.","Mothers selectively pass X or Y chromosomes.","X inheritance from mother depends on environment.","Mothers produce only X-bearing eggs."],answer:3,exp:"Female eggs always carry an X chromosome."},
+
+{q:"In the process of binary fission in unicellular organisms such as bacteria and protozoa, which of the following is least likely to occur?",options:["Rapid population increase under favourable conditions","Unequal partition of genetic material","No need for a second parent","Formation of identical daughter cells"],answer:1,exp:"Binary fission generally produces equal genetic distribution."},
+
+{q:"What is the primary purpose of pedigree analysis in the context of genetics?",options:["To track the inheritance of specific traits across generations within a family","To analyse the nutritional requirements of different organisms","To study the ecological interactions between species in an environment","To measure the physical traits of individuals in a population"],answer:0,exp:"Pedigree analysis helps trace inherited traits through generations."},
+
+{q:"In terms of chromosome contribution, which of the following is correct?",options:["Mother always contributes X, father contributes X or Y","Father contributes only X chromosome","Mother can contribute X or Y","Both parents contribute either X or Y"],answer:0,exp:"The mother contributes X, while the father contributes X or Y."},
+
+{q:"Which of the following is the basic unit of classification of living organisms?",options:["Species","Genus","Family","Order"],answer:0,exp:"Species is the smallest and basic classification unit."},
+
+{q:"According to Mendel, when a tall pea plant (TT) is crossed with a short pea plant (tt), the F1 offspring will be:",options:["50% tall (Tt), 50% short (tt)","75% tall (TT/Tt), 25% short (tt)","all tall (Tt)","all short (tt)"],answer:2,exp:"All F1 offspring are tall heterozygous (Tt)."},
+
+{q:"What does variation within a species ensure?",options:["Better adaptability and chances of survival","No mutations","Similar response to environmental changes","No evolution"],answer:0,exp:"Variation improves adaptability and survival in changing environments."},
+
+
 {q:"राष्ट्रपति?",options:["राज्य प्रमुख","सैनिक","किसान","व्यापारी"],answer:0,exp:"राज्य प्रमुख"},
 {q:"संविधान?",options:["कानून","धर्म","नदी","योजना"],answer:0,exp:"कानून"}
 ],
@@ -1111,7 +1291,7 @@ set4: [
 ]
 },
 
-may: {
+hormones: {
 set1: [
 {q:"गंगा कहाँ से?",options:["गंगोत्री","यमुना","सतलुज","नर्मदा"],answer:0,exp:"गंगोत्री"},
 {q:"भारत राज्य?",options:["राजस्थान","नेपाल","चीन","भूटान"],answer:0,exp:"भारत"}
