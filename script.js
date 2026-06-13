@@ -1293,12 +1293,143 @@ set4: [
 
 hormones: {
 set1: [
-{q:"गंगा कहाँ से?",options:["गंगोत्री","यमुना","सतलुज","नर्मदा"],answer:0,exp:"गंगोत्री"},
-{q:"भारत राज्य?",options:["राजस्थान","नेपाल","चीन","भूटान"],answer:0,exp:"भारत"}
+{q:"Which of the following organs releases growth hormone releasing factor, which stimulates the pituitary gland to release growth hormone?",options:["Thymus","Adrenal glands","Pancreas","Hypothalamus"],answer:3,exp:"Hypothalamus releases GHRF which stimulates growth hormone secretion."},
+
+{q:"Which of the following plant hormones helps in promoting growth?",options:["Auxin, Cytokinins and Abscisic acid","Gibberellins, Cytokinins and Abscisic acid","Auxin, Cytokinins and Gibberellins","Auxin, Abscisic acid and Gibberellins"],answer:2,exp:"Auxins, cytokinins and gibberellins promote plant growth."},
+
+{q:"Which of the following is a type of steroid hormone that is secreted from the adrenal gland?",options:["Luteinizing Hormone","Folic Stimulation Hormone","Nor-Epinephrine","Glucocorticoid"],answer:3,exp:"Glucocorticoids are steroid hormones secreted by the adrenal gland."},
+
+{q:"What is the function of growth hormones?",options:["It stimulates growth in all organs.","It stimulates development of female sex organs.","It regulates blood sugar level.","It regulates metabolism for body growth."],answer:0,exp:"Growth hormone promotes growth of body tissues and organs."},
+
+{q:"Iodine is necessary for which gland to make the thyroxine hormone?",options:["Thymus","Pancreas","Pineal gland","Thyroid gland"],answer:3,exp:"The thyroid gland requires iodine to produce thyroxine."},
+
+{q:"Which of the following is INCORRECT about plant hormones?",options:["Different plant hormones help to coordinate responses to the environment.","Different plant hormones help to coordinate growth and development.","All plant hormones except abscisic acid help in promoting growth.","All plant hormones except cytokinins promote cell division."],answer:3,exp:"Cytokinins specifically promote cell division, so the statement is incorrect."},
+
+{q:"Which hormone triggers sexual maturation in boys?",options:["Estrogen","Oxytocin","Testosterone","Progesterone"],answer:2,exp:"Testosterone is responsible for male sexual maturation."},
+
+{q:"Which of the following glands controls the rate of energy release inside the body?",options:["Thyroid","Parathyroid","Pineal","Pancreas"],answer:0,exp:"The thyroid gland regulates metabolic rate and energy release."},
+
+{q:"What is the main function of carbohydrates in the body?",options:["It is crucial for growth.","It regulates hormones.","It provides energy","It insulates the body."],answer:2,exp:"Carbohydrates are the body's primary source of energy."},
+
+{q:"The body of a squirrel has to prepare for either fighting or running away by using which of the following hormones?",options:["Adrenaline","Oestrogen","Testosterone","Thyroxin"],answer:0,exp:"Adrenaline prepares the body for fight-or-flight responses."},
+
+{q:"Which of the following is an important female sex hormone?",options:["Nucleosome","Estrogen","Testosterone","Chromatin"],answer:1,exp:"Estrogen is a major female sex hormone."},
+
+{q:"Fruits and seeds have a high concentration of which of the following plant hormones?",options:["Auxin","Gibberellin","Cytokinin","Abscisic acid"],answer:2,exp:"Cytokinins are abundant in fruits and seeds."},
+
+{q:"In animals, which of the following hormones are secreted during a scary situation?",options:["Insulin","Adrenaline","Growth hormone","Thyroxin"],answer:1,exp:"Adrenaline is released during fear and stress situations."},
+
+{q:"Which of the following hormones stimulates the growth of all organs?",options:["Adrenaline","Glucagon","Insulin","Growth hormone"],answer:3,exp:"Growth hormone stimulates overall body growth."},
+
+{q:"Which hormone regulates the amount of sugar in human blood?",options:["Estrogen","Testosterone","Parathormone","Insulin"],answer:3,exp:"Insulin controls blood glucose levels."},
+
+{q:"The concentration of which plant hormone is highest at the top of the plant and decreases as you get closer to the roots?",options:["Auxin","Cytokinin","Gibberellin","Ethylene"],answer:0,exp:"Auxin concentration is highest near the shoot tip."},
+ 
+{q:"Which of the following endocrine glands secretes growth hormone?",options:["Pituitary","Thyroid","Pancreas","Adrenal"],answer:0,exp:"The pituitary gland secretes growth hormone."},
+
+{q:"When the level of growth hormone is low, which releases growth hormone releasing factor and stimulates the pituitary gland to release growth hormone?",options:["Thyroid gland","Adrenal gland","Hypothalamus","Pancreas"],answer:2,exp:"The hypothalamus releases GHRF to stimulate growth hormone secretion."},
+
+{q:"A male patient has low sperm motility. Which glands are most likely to be NOT functioning properly?",options:["Thyroxine and Pineal Glands","Pancreas and adrenal glands","Prostate gland and seminal vesicles","Testis and bladder"],answer:2,exp:"Prostate gland and seminal vesicles contribute fluids that support sperm motility."},
+
+{q:"Which of the following is/are NOT present in the plasma?",options:["Salts","Proteins","Undigested food","Hormones"],answer:2,exp:"Undigested food is not normally present in blood plasma."},
+
+{q:"Which of the following glands is an endocrine gland in the human body?",options:["Salivary","Pituitary","Prostate","Sweat"],answer:1,exp:"The pituitary gland is a major endocrine gland."},
+
+{q:"Which of the following statements suits best for the role of chemical methods of birth control in family planning?",options:["They prevent sperm from entering the uterus by thickening the vaginal wall.","They mechanically block the fallopian tubes and suppress menstruation entirely.","They alter the hormone levels to inhibit ovulation and uterus preparation.","They increase estrogen levels to promote ovulation and make fertilisation less likely."],answer:2,exp:"Hormonal contraceptives prevent ovulation and prepare the uterus."},
+
+{q:"Which of the following is a characteristic of the onset of puberty in boys?",options:["Growth of hairs on head","Growth of liver","Growth of a moustache","Growth of pineal gland"],answer:2,exp:"Growth of a moustache is a secondary sexual characteristic in boys."},
+
+{q:"Which glands help to control blood pressure in the human body?",options:["Adrenal glands","Pituitary glands","Pancreas","Pineal gland"],answer:0,exp:"Adrenal glands secrete hormones involved in blood pressure regulation."},
+
+{q:"Select the correct option related to the function regulated by ovaries.",options:["Stimulates growth in all organs","Regulates metabolism","Menstrual cycle","Stimulates pituitary glands"],answer:2,exp:"Ovaries regulate the menstrual cycle through hormone secretion."},
+
+{q:"Sexual maturation in humans results in:",options:["Loss of reproductive capacity and growth","Development of reproductive organs and secondary sexual characteristics","Decrease in hormone levels and loss of reproductive organs","Only physical growth"],answer:1,exp:"Sexual maturation develops reproductive organs and secondary sexual traits."},
+
+{q:"Which gland secretes the growth hormone (GH) in humans?",options:["Pancreas","Pituitary gland","Thyroid gland","Adrenal gland"],answer:1,exp:"Growth hormone is secreted by the pituitary gland."},
+
+{q:"Trachea is a part of which of the following human systems?",options:["Excretory system","Circulatory system","Endocrine system","Respiratory system"],answer:3,exp:"The trachea is a component of the respiratory system."},
+
+{q:"Which of the following is secreted directly into the blood and carried to different parts of the body?",options:["Saliva","Pancreatic juice","Bile juice","Adrenaline"],answer:3,exp:"Adrenaline is a hormone released directly into the bloodstream."},
+
+{q:"Which one of the following is a Biological catalysts?",options:["Minerals","Hormones","Enzymes","Radiation"],answer:2,exp:"Enzymes act as biological catalysts in living organisms."},
+
+{q:"The hormone thyroxine is commonly known as -",options:["T3","T4","PTH","TSH"],answer:1,exp:"Thyroxine is commonly referred to as T4."},
+
+{q:"Many plants secrete a sticky milky fluid and use it for their defence mechanism. This fluid is known as ___________________.",options:["cell sap","enzyme","latex","plant hormone"],answer:2,exp:"Latex is a milky fluid used by many plants for defense."},
+
 ],
 set2: [
-{q:"सबसे बड़ा राज्य?",options:["राजस्थान","बिहार","UP","MP"],answer:0,exp:"राजस्थान"},
-{q:"डेल्टा?",options:["सुंदरबन","थार","हिमालय","घाट"],answer:0,exp:"सुंदरबन"}
+{q:"What does the posterior pituitary gland secrete?",options:["Progesterone","Estrogen","Melatonin","Oxytocin"],answer:3,exp:"The posterior pituitary releases oxytocin into the bloodstream."},
+
+{q:"Iodine is essential for the synthesis of ______.",options:["Cytokinin","Insulin","Thyroxine","Oestrogen"],answer:2,exp:"Iodine is required for the production of thyroxine hormone."},
+
+{q:"Which gland in the human body secretes the growth hormone?",options:["Pituitary gland","Adrenal gland","Pancreas","Thyroid gland"],answer:0,exp:"Growth hormone is secreted by the pituitary gland."},
+
+{q:"Which of the following releases the growth hormone?",options:["Pituitary gland","Adrenal gland","Liver","Pancreas"],answer:0,exp:"The pituitary gland releases growth hormone."},
+
+{q:"Diabetes mellitus is caused by the inadequate secretion of which hormone?",options:["Estrogen","Insulin","Adrenaline","Thyroxine"],answer:1,exp:"Diabetes mellitus results from insufficient insulin secretion."},
+
+{q:"Which gland secrete growth hormone?",options:["Adrenal gland","Pituitary gland","Ovaries","Thyroid gland"],answer:1,exp:"The pituitary gland secretes growth hormone."},
+
+{q:"Which of the following is not a plant hormone?",options:["Gibberellins","Prolactin","Ethylene","Abscisic Acid"],answer:1,exp:"Prolactin is an animal hormone, not a plant hormone."},
+
+{q:"Birth control pills contain",options:["Progesterone only","Estrogen only","Mixture of progesterone and estrogen derivative","Neither progesterone nor estrogen"],answer:2,exp:"Birth control pills usually contain estrogen and progesterone derivatives."},
+
+{q:"Which of these hormones stimulates uterine contractions and dilation of the cervix?",options:["ADH","Oxytocin","Progesterone","Thyroxine"],answer:1,exp:"Oxytocin stimulates uterine contractions during childbirth."},
+
+{q:"Which of the following glands secretes growth hormones in human beings?",options:["Pituitary gland","Thyroid","Pancreas","Pineal gland"],answer:0,exp:"Growth hormone is secreted by the pituitary gland."},
+
+{q:"Which hormone regulates the blood sugar level in the body?",options:["Testosterone","Thyroid","Adrenaline","Insulin"],answer:3,exp:"Insulin maintains blood glucose levels."},
+
+{q:"A person shows high blood sugar levels even after eating small amounts of food. What may be the cause?",options:["Excess growth hormone","Low thyroxine","Excess estrogen","Lack of insulin"],answer:3,exp:"Lack of insulin causes elevated blood sugar levels."},
+
+{q:"What is known by the name of the site where the endocrine glands secrete hormones in the flow of blood to reach any particular organ?",options:["Hormonal site","Target site","Blood site","Endocrine site"],answer:1,exp:"Hormones act on specific target sites or target organs."},
+
+{q:"What does the thyroid gland secrete?",options:["melanocyte-stimulating hormone","calcitonin","Oxytocin","Vasopressin"],answer:1,exp:"The thyroid gland secretes calcitonin among other hormones."},
+
+{q:"Select the correct option related to the function regulated by ovaries.",options:["Regulates metabolism","Stimulates pituitary glands","Stimulates growth in all organs","Menstrual cycle"],answer:3,exp:"Ovaries regulate the menstrual cycle through hormone production."},
+
+{q:"Which of the following best describes the process of sexual maturation in humans?",options:["It occurs suddenly and marks the end of body growth","It begins after adulthood and leads to immediate readiness for parenthood","It is a gradual process during adolescence involving physical and hormonal changes","It occurs only in females and stops once menstruation begins"],answer:2,exp:"Sexual maturation occurs gradually during adolescence."},
+
+{q:"Which hormone regulates carbohydrate, protein and fat metabolism in the body and iodine is essential for the synthesis of it?",options:["Testosterone hormone","Insulin hormone","Adrenaline hormone","Thyroxin hormone"],answer:3,exp:"Thyroxine regulates metabolism and requires iodine for synthesis."},
+
+{q:"Which gland secretes adrenaline?",options:["Thyroid gland","Adrenal gland","Pineal gland","Pituitary gland"],answer:1,exp:"The adrenal gland secretes adrenaline."},
+
+{q:"What does the adrenal gland secrete?",options:["Thyroxine","Estrogen","Cortisol","THS"],answer:2,exp:"The adrenal gland secretes cortisol."},
+
+{q:"Which hormone protects the blood glucose from going too low?",options:["Insulin","Oxytocin","Vasopressin","Glucagon"],answer:3,exp:"Glucagon raises blood glucose when it becomes too low."},
+
+{q:"Which of the following is a plant hormone?",options:["Estrogen","Chlorophyll","Thyroxin","Auxin"],answer:3,exp:"Auxin is a plant hormone that promotes growth and cell elongation."},
+
+{q:"Cushing's syndrome is caused by excess secretion of which hormone?",options:["Melatonin","Vasopressin","Erythropoietin","Cortisol"],answer:3,exp:"Cushing's syndrome results from prolonged excess cortisol secretion."},
+
+{q:"Which hormone promotes RBC production in bone marrow?",options:["Cholecystokinin","Serotonin","Somatostatin","Erythropoietin"],answer:3,exp:"Erythropoietin stimulates red blood cell production in bone marrow."},
+
+{q:"How do hormonal contraceptives prevent pregnancy?",options:["By blocking sperm physically","By killing sperm directly","By removing ova from ovaries","By changing the hormonal balance to prevent egg release"],answer:3,exp:"Hormonal contraceptives prevent ovulation by altering hormone levels."},
+
+{q:"Which hormone is commonly called the 'stress hormone'?",options:["Insulin","Thyroxine","Oxytocin","Cortisol"],answer:3,exp:"Cortisol is known as the stress hormone."},
+
+{q:"Which gland secretes melatonin?",options:["Pituitary gland","Thyroid gland","Adrenal gland","Pineal gland"],answer:3,exp:"The pineal gland secretes melatonin, which regulates sleep cycles."},
+
+{q:"Which hormone regulates the sleep-wake cycle in humans?",options:["Adrenaline","Melatonin","Insulin","Glucagon"],answer:1,exp:"Melatonin helps regulate the body's circadian rhythm."},
+
+{q:"Which hormone is secreted by the kidneys in response to low oxygen levels?",options:["Thyroxine","Cortisol","Insulin","Erythropoietin"],answer:3,exp:"Kidneys release erythropoietin when oxygen levels are low."},
+
+{q:"Which hormone is responsible for maintaining water balance in the body?",options:["Insulin","Melatonin","Vasopressin","Cortisol"],answer:2,exp:"Vasopressin (ADH) regulates water balance in the body."},
+
+{q:"Which endocrine gland is known as the master gland?",options:["Pineal gland","Adrenal gland","Pituitary gland","Pancreas"],answer:2,exp:"The pituitary gland controls many other endocrine glands."},
+
+{q:"Which hormone helps lower blood glucose levels?",options:["Glucagon","Adrenaline","Insulin","Cortisol"],answer:2,exp:"Insulin lowers blood glucose by promoting its uptake by cells."},
+
+{q:"Which hormone raises blood glucose levels when they become too low?",options:["Insulin","Glucagon","Melatonin","Oxytocin"],answer:1,exp:"Glucagon increases blood glucose levels by acting on the liver."},
+
+{q:"Which hormone is released during emergency situations and prepares the body for fight or flight?",options:["Insulin","Adrenaline","Thyroxine","Progesterone"],answer:1,exp:"Adrenaline prepares the body for rapid action during stress."},
+
+{q:"Which hormone stimulates uterine contractions during childbirth?",options:["Progesterone","Estrogen","Oxytocin","Insulin"],answer:2,exp:"Oxytocin stimulates contractions during labor."},
+
+{q:"Which hormone is essential for normal metabolism and requires iodine for its synthesis?",options:["Insulin","Thyroxine","Cortisol","Melatonin"],answer:1,exp:"Thyroxine regulates metabolism and requires iodine."},
+
+{q:"Which hormone deficiency is commonly associated with diabetes mellitus?",options:["Glucagon","Adrenaline","Insulin","Thyroxine"],answer:2,exp:"Diabetes mellitus is caused by insufficient insulin production or action."},
 ],
 set3: [
 {q:"नदी?",options:["गंगा","थार","हिमालय","रेगिस्तान"],answer:0,exp:"गंगा"},
