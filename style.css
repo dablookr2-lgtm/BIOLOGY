@@ -382,7 +382,7 @@ body{
 
 .active-btn{
     background:hsl(60, 14%, 99%);
-    color:hsl(251, 95%, 49%);
+    color:lab(55.11% 87.63 -31.84);
     font-weight:bold;
     transform:scale(1.1);
 }
