@@ -374,13 +374,13 @@ body{
 
 /* PROGRESS BAR */
 .progress{
-    top:170px !important;
+    top:145px !important;
 }
 
 /* SET SCROLL */
 .set-bar{
     position:fixed !important;
-    top:176px !important;
+    top:151px !important;
     left:0;
     right:0;
 
