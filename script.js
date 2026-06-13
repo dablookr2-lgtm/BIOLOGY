@@ -934,8 +934,159 @@ set5:[
 {q:"Which major discovery helps to design drugs in the treatment of hyperacidity?",options:["The role of enzymes in digestion","The use of antibiotics to neutralize stomach acid","Hydrochloric acid present in the stomach","Histamine stimulates acid secretion in the stomach"],answer:3,exp:"Knowledge of histamine-mediated acid secretion led to anti-ulcer drugs."},
 
 ],
-set6:[{q:"थार?",options:["रेगिस्तान","नदी","पहाड़","झील"],answer:0,exp:"रेगिस्तान"},{q:"लोकतंत्र?",options:["जनता","राजा","सेना","धर्म"],answer:0,exp:"जनता"}],
-set7:[{q:"हिमालय?",options:["पहाड़","नदी","समुद्र","रेगिस्तान"],answer:0,exp:"पहाड़"},{q:"बिहार?",options:["राज्य","देश","नगर","द्वीप"],answer:0,exp:"राज्य"}],
+set6:[
+{q:"The nucleus contains chromosomes, which appear as rod-shaped structures only when the cell is about to divide. These chromosomes are composed of _____.",options:["RNA and lipids","Amino acids and carbohydrates","DNA and proteins","Glucose and enzymes"],answer:2,exp:"Chromosomes are made of DNA wrapped around proteins called histones."},
+
+{q:"If two daughter cells produced by cell division show minor differences in their structure, which process during DNA copying most likely caused these variations?",options:["Errors in protein synthesis after DNA copying","Minor variations occur during DNA copying due to the inherent unreliability of biochemical reactions","The separation of DNA copies into new cells is incomplete","The absence of DNA blueprints in the nucleus"],answer:1,exp:"Small errors during DNA replication create variations."},
+
+{q:"In eukaryotic cells, the smooth endoplasmic reticulum is mainly responsible for:",options:["Protein synthesis","Lipid synthesis and detoxification","Sugar breakdown","Genetic information storage"],answer:1,exp:"SER helps in lipid production and detoxification."},
+
+{q:"What determines the sex of a child?",options:["Blood group of father","Rh factor of the parents","Blood group of mother","Chromosomes"],answer:3,exp:"Sex is determined by the sex chromosomes inherited."},
+
+{q:"Name the scientist who developed the process of deciphering the genetic code in the living cells in the 1960s.",options:["Archibald Garrod","Marshall Nirenberg","Wilhelm Johannsen","Erich von Tschermak"],answer:1,exp:"Marshall Nirenberg helped decode the genetic code."},
+
+{q:"Why is it important for DNA to be accompanied by a cellular apparatus in a reproducing cell during DNA copying?",options:["To ensure energy is stored in the new cell","To maintain life processes in the new cell","To help DNA avoid mutations","To provide structural support to the DNA only"],answer:1,exp:"Cellular machinery is needed to sustain life functions."},
+
+{q:"Name the separate entity that controls the symptoms in the rule of effectiveness?",options:["Test Cross","Phenotype","Factors","Genotype"],answer:2,exp:"Mendel called hereditary units factors."},
+
+{q:"Which of the following statements is INCORRECT about DNA copies produced during the process of reproduction?",options:["DNA copying is a completely error-free process.","Copying of DNA is a pre-requisite for reproduction.","DNA copies generated are similar but not identical.","DNA copies are single stranded."],answer:0,exp:"DNA replication can introduce occasional errors."},
+
+{q:"Carbon has the unique ability to form bonds with other atoms of carbon. This property is known as _____.",options:["allotropes","homologus","catenation","Cyclisation"],answer:2,exp:"Carbon atoms can link together by catenation."},
+
+{q:"What are the units of inheritance, which Mendel referred to as 'factors,' now called?",options:["Chromosomes","DNA","Genes","Traits"],answer:2,exp:"Genes are the hereditary units controlling traits."},
+
+{q:"What is the function of the anaphase-telophase transition in mitosis?",options:["Separation of chromatids and reformation of the nuclear envelope","Condensation of chromosomes","Synthesis of new DNA strands","Initiation of DNA replication"],answer:0,exp:"Chromatids separate and new nuclei begin forming."},
+
+{q:"What is the meaning of the phrase 'the DNA copies generated will be similar, but may not be identical'?",options:["Each DNA copy is totally unrelated.","DNA copies may have slight differences.","All DNA copies are identical clones.","The original DNA is destroyed after copying."],answer:1,exp:"Replication may produce minor genetic differences."},
+
+{q:"What is the primary objective of launching India’s first National Biofoundry Network under the BioE3 policy in August 2025?",options:["Biomanufacturing","Skill training","Wildlife study","Gene editing"],answer:0,exp:"The initiative focuses on advancing biomanufacturing."},
+
+{q:"The rough endoplasmic reticulum is associated with:",options:["Lipid synthesis","DNA replication","Protein synthesis","Enzyme breakdown"],answer:2,exp:"Ribosomes on RER synthesize proteins."},
+
+{q:"Which type of RNA transports genetic information from the DNA in the nucleus to the ribosomes in the cytoplasm, where it directs protein synthesis?",options:["tRNA","snRNA","mRNA","rRNA"],answer:2,exp:"mRNA carries genetic instructions for protein synthesis."},
+
+{q:"What is the primary mechanism through which sexual reproduction generates genetic diversity in the offspring?",options:["Frequent cell divisions during gamete formation","Inaccuracies in DNA copying during gamete formation in maternal and paternal parents","Random distribution of maternal or paternal chromosomes from each chromosome pair to the gametes","Variation in chromosome number among the gametes"],answer:2,exp:"Random assortment of chromosomes creates genetic diversity."},
+
+{q:"Double helical model of DNA molecule was proposed by -",options:["Khorana","Watson and Crick","Morgan","Nirenberg"],answer:1,exp:"Watson and Crick proposed the DNA double helix model."},
+
+{q:"Who is known as the 'Father of Modern Genetics'?",options:["Robert Brown","Rosalind Franklin","James Watson","Gregor Mendel"],answer:3,exp:"Gregor Mendel established the basic laws of inheritance."},
+
+{q:"In which of the following methods, recombinant DNA is entered directly into the nucleus of the animal cells?",options:["Inner Inactive","Micro Injection","Bio Modification","Gene Spike"],answer:1,exp:"Microinjection inserts DNA directly into the cell nucleus."},
+
+{q:"Which of the following best explains why uracil is used in RNA instead of thymine?",options:["Thymine is not recognized by ribosomes","Uracil enhances RNA splicing","Thymine inhibits transcription","Uracil is energetically cheaper to synthesise"],answer:3,exp:"Uracil requires less energy to produce than thymine."},
+
+{q:"Which of the following statements about DNA and RNA is true?",options:["DNA is not present in viruses.","DNA acts only as a messenger molecule.","RNA has multiple roles including catalytic functions.","RNA acts solely as genetic material in all living organisms."],answer:2,exp:"RNA can function as a catalyst as well as genetic material."},
+
+{q:"What determines the sex of a child in humans?",options:["Number of autosomes","Mitochondrial DNA","Mother’s ovum","Father’s sperm"],answer:3,exp:"The father's sperm contributes either X or Y chromosome."},
+
+{q:"Plastids have their own __________ and __________, similar to mitochondria.",options:["DNA; ribosomes","vesicles; proteins","nucleus; chromosomes","enzymes; vacuoles"],answer:0,exp:"Plastids contain their own DNA and ribosomes."},
+
+{q:"The plasma membrane is composed of _____________.",options:["DNA and lipids","lipids and proteins","sugars and lipids","proteins and sugars"],answer:1,exp:"The plasma membrane mainly consists of lipids and proteins."},
+
+{q:"Who discovered the ribosomes in the cell?",options:["Dmitri Ivanovsky","Stephen Hales","George Emil Palade","Alec Jeffreys"],answer:2,exp:"George Emil Palade discovered ribosomes."},
+
+{q:"What is the importance of sexual reproduction in creating variation in plant populations?",options:["It speeds up DNA copying errors.","It prevents any variations from occurring.","It copies DNA without any changes.","It mixes DNA from two parents to create new variations."],answer:3,exp:"Genetic material from two parents increases variation."},
+
+{q:"Why are Indian poultry breeds cross-bred with exotic breeds to improve productivity?",options:["Developing poultry with high yield and local adaptability.","Produce genetically identical birds, thereby eliminating variation in the flock.","Alter genetics to reduce feed needs only of birds without considering their adaptability.","Create entirely new bird species to replace traditional poultry farming practices."],answer:0,exp:"Cross-breeding combines productivity with local adaptability."},
+
+{q:"Which of the following represents a similarity between chloroplast and Mitochondria?",options:["Both perform photosynthesis.","Both perform respiration.","Both posses their own DNA and 70S Ribosome.","Both have chlorophyll."],answer:2,exp:"Both organelles contain their own DNA and 70S ribosomes."},
+
+{q:"The smooth endoplasmic reticulum (SER) helps in the manufacture of ___________.",options:["proteins","lipids (fats)","DNA","starch"],answer:1,exp:"SER is involved in lipid synthesis."},
+
+{q:"The other term for genetic engineering is:",options:["DNA fingerprinting","DNA editing","Recombinant DNA technology","Gene therapy"],answer:2,exp:"Genetic engineering is also known as recombinant DNA technology."},
+
+{q:"What is the number of chromosomes present in human gametes (egg and sperm)?",options:["A set of chromosomes","22 pairs of chromosomes","Not a single chromosome","Three sets of chromosomes"],answer:0,exp:"Human gametes are haploid and contain one set of chromosomes."},
+],
+set7:[
+{q:"Which one of the following correctly represents Mendel's conclusion about inheritance?",options:["Each trait is controlled by three genes.","Each traits is controlled by one factor.","Each trait is controlled by two factors.","Each trait is controlled by one chromosome."],answer:2,exp:"Mendel proposed that each trait is controlled by a pair of factors."},
+
+{q:"Why does sexual reproduction result in greater variation among offspring?",options:["It produces exact replicas of the parent.","It allows combination of genetic material from two individuals.","It occurs only in humans.","It involves copying of identical DNA."],answer:1,exp:"Genetic material from two parents increases variation."},
+
+{q:"What are the two versions of a gene controlling a trait called?",options:["Chromosomes","Proteins","Mutations","Alleles"],answer:3,exp:"Alternative forms of a gene are called alleles."},
+
+{q:"Traits can be influenced by:",options:["by both paternal DNA and maternal DNA","only paternal DNA","only maternal DNA","only maternal grandparent DNA"],answer:0,exp:"Traits are usually influenced by genes from both parents."},
+
+{q:"What is the advantage of combining DNA from two different individuals in sexually reproducing animals?",options:["It eliminates errors in DNA copying.","It increases genetic variation within the population.","It speeds up the reproduction process.","It reduces the need for specialized reproductive organs."],answer:1,exp:"Mixing DNA increases diversity within populations."},
+
+{q:"What unique feature do the sex chromosomes in humans have compared to other chromosomes?",options:["They are the largest chromosomes in the body.","They are always perfectly paired.","They are not always a perfect pair in males.","They are identical in males and females."],answer:2,exp:"Male humans have XY sex chromosomes which are not identical."},
+
+{q:"The combination of alleles at specific gene locations on an organism's chromosomes, representing its genetic constitution, is known as ______.",options:["genotype","DNA","double helix","phenotype"],answer:0,exp:"Genotype refers to the genetic makeup of an organism."},
+
+{q:"Energy reserves are found in the form of chemical bonds in living beings, these chemicals of energy are called -",options:["Metabolism","Deoxyribonucleic Acid","Adenoset Tri - Phosphate","Ribonucleic Acid"],answer:2,exp:"ATP is the primary energy currency of cells."},
+
+{q:"What is the first stage of gene deposition, in which enzyme RNA polymerase is copied to any particular segment of DNA in the RNA (especially mRNA)?",options:["DNA Replica","Central Dogma","Codon","Transcription"],answer:3,exp:"Transcription is the process of synthesizing RNA from DNA."},
+
+{q:"What is the energy currency for most cellular processes?",options:["NAD","DNA","ATP","RNA"],answer:2,exp:"ATP provides energy for most cellular activities."},
+
+{q:"The inability to isolate intact DNA for structural studies prior to the 1950s was primarily due to which molecular feature?",options:["DNA’s high melting point","DNA’s large polymeric nature and fragility","DNA’s interaction with histone proteins","DNA’s susceptibility to UV degradation"],answer:1,exp:"DNA is a large fragile polymer that was difficult to isolate intact."},
+
+{q:"DNA polymerase catalyses the addition of nucleotides during DNA replication. Its main role is to:",options:["Ligate Okazaki fragments together","Synthesise new DNA strands complementary to the template","Unwind the DNA double helix","Remove RNA primers from the lagging strand"],answer:1,exp:"DNA polymerase builds new DNA strands using a template."},
+
+{q:"Which of the following ensures that the DNA amount is NOT doubled in every generation?",options:["Consistency of DNA in gametes","Division of body cells","Reduction of DNA in gametes","Division of neurons"],answer:2,exp:"Gametes contain half the DNA, preventing doubling each generation."},
+
+{q:"A complete set of nuclear DNA in an organism is called____________.",options:["Tissue","Chromosome","Organelle","Genome"],answer:3,exp:"The genome is the complete set of genetic material."},
+
+{q:"Butane (C₄H₁₀) exists in two different forms: one with a straight chain and one with a branched chain. What is this phenomenon called?",options:["Isomerism","Catenation","Polymerisation","Sublimation"],answer:0,exp:"Compounds with the same formula but different structures show isomerism."},
+
+{q:"What is the phenomenon of organisms in which female gamete develops to form new creatures without fertilization?",options:["Genome","Parthenogenesis","Monogamy","Syngamy"],answer:1,exp:"Parthenogenesis is development from an unfertilized egg."},
+
+{q:"Which of the following statements is INCORRECT about aneuploids?",options:["One or more chromosomes of a chromosome set either missing or having more copies","Unequal distribution of chromosomes to opposite poles","Usually results from irregular meiotic division","Organisms having more than two sets of chromosomes in each cell"],answer:3,exp:"Having more than two complete chromosome sets is polyploidy, not aneuploidy."},
+
+{q:"What is the study of heredity and variation called?",options:["Evolution","Mutation","Genetics","Biology"],answer:2,exp:"Genetics deals with heredity and variation."},
+
+{q:"Which of the following is a branch of technology that deals with dimensions and tolerances of less than 100 nanometers, especially the manipulation of individual atoms and molecules?",options:["Biotechnology","Femtotechnology","Nanotechnology","Microtechnology"],answer:2,exp:"Nanotechnology works at the nanoscale level."},
+
+{q:"The number of chromosomes in Cat is",options:["12 pairs","19 pairs","14 pairs","23 pairs"],answer:1,exp:"Domestic cats have 19 pairs of chromosomes."},
+
+{q:"The complete sequencing of the human genome has marked the beginning of:",options:["genomics","immunology","cytogenetics","structural biology"],answer:0,exp:"Genome sequencing led to the rise of genomics."},
+
+{q:"A segment of DNA that provides information to a protein, is called the __________ of that protein.",options:["Gene","Heredity","Enzyme","Chromosome"],answer:0,exp:"A gene contains instructions for making a protein."},
+
+{q:"What are the number of chromosomes in a human male germ cell?",options:["46 pairs of Chromosomes","23 Chromosomes","23 pairs of Chromosomes","46 Chromosomes"],answer:1,exp:"Human germ cells are haploid and contain 23 chromosomes."},
+
+{q:"Every trait in an organism is influenced by which of the following?",options:["Only maternal DNA","By both maternal and paternal DNA equally","More by paternal DNA than maternal DNA","Only paternal DNA"],answer:1,exp:"Traits are generally influenced by genes from both parents."},
+
+{q:"What is the term used to describe the different forms of a gene?",options:["Allele","Phenotype","Genotype","Chromosome"],answer:0,exp:"Different forms of a gene are called alleles."},
+
+{q:"Who demonstrates the multiplicative process of becoming amino acids from polypeptide?",options:["Translation","Transcription","Aminoceleasan","Regulation"],answer:0,exp:"Translation converts genetic information into proteins."},
+
+{q:"Which of the following terms describe a change in the DNA sequence resulting in changes in the genotype and the phenotype of an organism?",options:["Segregation","Mutation","Dominance","Transcription"],answer:1,exp:"A mutation is a change in the DNA sequence."},
+
+{q:"The intermediary that DNA molecules use to communicate with the rest of the cell is the:",options:["miRNA","tRNA","mRNA","rRNA"],answer:2,exp:"mRNA carries information from DNA to ribosomes."},
+
+{q:"Which crop variety improvement method involves selecting parents with desirable traits and crossing them?",options:["Hybridisation","Mutation","Tissue Culture","Genetic Engineering"],answer:0,exp:"Hybridisation combines desirable traits from selected parents."},
+
+{q:"Who is the full genetic formation of a person?",options:["Phenotype","Hybrid","Genotype (gene)","Dihybrid Cross"],answer:2,exp:"Genotype refers to the complete genetic makeup of an individual."},
+
+{q:"Which of the following options best represents the predictions of a Punnett square?",options:["Genotype and phenotype probabilities","Genetic linkage relationships in siblings","Genetic mutations over several generations","DNA sequence in parents"],answer:0,exp:"Punnett squares predict genotype and phenotype probabilities."},
+
+{q:"What are the different forms of a gene called?",options:["Chromosomes","Genotypes","Phenotypes","Alleles"],answer:3,exp:"Alternative forms of a gene are known as alleles."},
+
+{q:"Which of the following best explains the functional diversity of RNA molecules in cells?",options:["Their linear sequence of deoxyribonucleotides","Their capability to act as adapter, structural and catalytic molecules","Their permanent role as genetic material","Their ability to form double-stranded helical structures"],answer:1,exp:"RNA performs structural, catalytic and information-carrying roles."},
+
+{q:"________ chromosomes are found in the nucleus of human cells?",options:["23 Chromosome","100 Chromosome","46 pair chromosome","23 pair chromosome"],answer:3,exp:"Human somatic cells contain 23 pairs of chromosomes."},
+
+{q:"Why are cross-breeding programmes between indigenous and exotic poultry breeds undertaken?",options:["To create hybrids with less attractive features","To create hybrids showing similarity with their ancestors","To develop new varieties with desirable traits","To increase only the egg size"],answer:2,exp:"Cross-breeding helps combine desirable characteristics."},
+
+{q:"Which of the following best describes the impact of human genome sequencing?",options:["It marked a milestone toward transcriptional regulation.","It eliminated the need for classical genetics.","It clarified all RNA-related functions","It initiated a new scientific domain."],answer:3,exp:"Human genome sequencing launched the field of genomics."},
+
+{q:"The mention of DNA as a long polymer of deoxyribonucleotides implies which structural characteristic?",options:["It is composed of a sugar-phosphate backbone and nitrogenous bases.","Each nucleotide is linked by hydrogen bonds in a parallel fashion.","The molecule consists of multiple independent short chains.","The sequence is circular and self-replicating."],answer:0,exp:"DNA consists of nucleotides linked through a sugar-phosphate backbone."},
+
+{q:"What is the purpose of the Punnett square in genetics?",options:["Determining the phenotype of an individual","Predicting the outcomes of genetic crosses","Identifying the location of a gene on a chromosome","Analysing DNA replication"],answer:1,exp:"Punnett squares are used to predict inheritance patterns."},
+
+{q:"What is the name of the semiconservative process in which DNA duplicates into two identical molecules?",options:["Translation","Mutation","Transcription","Replication"],answer:3,exp:"DNA replication produces two identical DNA molecules."},
+
+{q:"Cut in special places in DNA by whom?",options:["Endonuclease","Plasmid","Exonuclease","Ricobinant DNA"],answer:0,exp:"Endonucleases cut DNA at specific recognition sites."},
+
+{q:"In the context of inheritance of sex chromosomes in humans, which of the following statements is correct?",options:["All children inherit a Y chromosome from their father, and the sex is determined by the chromosome inherited from their mother.","All children inherit an X chromosome from their mother, and the sex is determined by the chromosome inherited from their father.","All children inherit a Y chromosome from their mother, and the sex is determined by the chromosome inherited from their father.","All children inherit an X chromosome from their father, and the sex is determined by the chromosome inherited from their mother."],answer:1,exp:"The mother always contributes X, while the father contributes X or Y."},
+
+{q:"Which process must accompany DNA copying to ensure the formation of functional daughter cells?",options:["Chromosomal mutation","RNA transcription only","Protein synthesis only","Creation of additional cellular apparatus"],answer:3,exp:"New cells require cellular machinery along with copied DNA."},
+
+{q:"In mitosis, how do the chromosomes in daughter cells compare with those in the parent cell?",options:["Daughter cells have the same number of chromosomes as the parent cell.","Daughter cells have half the number of chromosomes as the parent cell.","Daughter cells lose all chromosomes during division.","Daughter cells contain twice the number of chromosomes as the parent cell."],answer:0,exp:"Mitosis produces daughter cells with the same chromosome number."},
+
+{q:"Select the option that is true regarding the following two statements labelled Assertion (A) and Reason (R). Assertion (A): Vegetative propagation helps grow plants that do not produce seeds. Reason (R): It uses flowers to grow new plants.",options:["A is true, but R is false","Both A and R are true, but R is not the correct explanation of A","A is false, but R is true","Both A and R are true, and R is the correct explanation of A"],answer:0,exp:"Vegetative propagation is true, but it does not use flowers for reproduction."},
+
+],
 set8:[{q:"थार?",options:["रेगिस्तान","नदी","पहाड़","झील"],answer:0,exp:"रेगिस्तान"},{q:"लोकतंत्र?",options:["जनता","राजा","सेना","धर्म"],answer:0,exp:"जनता"}],
 set9:[{q:"हिमालय?",options:["पहाड़","नदी","समुद्र","रेगिस्तान"],answer:0,exp:"पहाड़"},{q:"बिहार?",options:["राज्य","देश","नगर","द्वीप"],answer:0,exp:"राज्य"}],
 set10:[{q:"थार?",options:["रेगिस्तान","नदी","पहाड़","झील"],answer:0,exp:"रेगिस्तान"},{q:"लोकतंत्र?",options:["जनता","राजा","सेना","धर्म"],answer:0,exp:"जनता"}],
