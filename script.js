@@ -2194,6 +2194,7 @@ set9:[
 
 {q:"What is the part of the tooth that is not visible as it lies below the gum line?",options:["Dentistry","Root","Tongue","Medial cavity"],answer:1,exp:"The root of a tooth lies below the gum line and is not visible."},
 ],
+
 set10:[
 
 
@@ -2295,10 +2296,10 @@ set10:[
 
 {q:"Which of the following statements about AIDS is FALSE?",options:["AIDS affects the immune system of the body.","AIDS is caused by the HIV virus.","AIDS can be transmitted through mosquito bites.","AIDS can be prevented by practising safe sex."],answer:2,exp:"AIDS is not transmitted through mosquito bites."},
 
-],
+]
 },
 
-july: {set1:[{q:"बिहार?",options:["राज्य","देश","जिला","नगर"],answer:0,exp:"राज्य"},{q:"गंगा?",options:["नदी","पहाड़","रेगिस्तान","झील"],answer:0,exp:"नदी"}],
+nervoussystem: {set1:[{q:"बिहार?",options:["राज्य","देश","जिला","नगर"],answer:0,exp:"राज्य"},{q:"गंगा?",options:["नदी","पहाड़","रेगिस्तान","झील"],answer:0,exp:"नदी"}],
 set2:[{q:"हिमालय?",options:["पहाड़","नदी","समुद्र","रेगिस्तान"],answer:0,exp:"पहाड़"},{q:"राजस्थान?",options:["राज्य","देश","नगर","द्वीप"],answer:0,exp:"राज्य"}],
 set3:[{q:"भारत?",options:["देश","राज्य","नगर","जिला"],answer:0,exp:"देश"},{q:"कोसी?",options:["नदी","पहाड़","झील","घाट"],answer:0,exp:"नदी"}],
 set4:[{q:"डेल्टा?",options:["भूमि","जल","आग","हवा"],answer:0,exp:"भूमि"},{q:"लोकतंत्र?",options:["जनता","राजा","सेना","धर्म"],answer:0,exp:"जनता"}]
